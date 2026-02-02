@@ -1,0 +1,6463 @@
+{
+    "ACB": [
+        {
+            "model": "ACB",
+            "years": [
+                2007,
+                2027
+            ]
+        },
+        {
+            "model": "B-STRONG",
+            "years": [
+                2007,
+                2027
+            ]
+        },
+        {
+            "model": "FORTRESS",
+            "years": [
+                2007,
+                2027
+            ]
+        },
+        {
+            "model": "MONTANA",
+            "years": [
+                2007,
+                2027
+            ]
+        },
+        {
+            "model": "TORNADO",
+            "years": [
+                2007,
+                2027
+            ]
+        }
+    ],
+    "AG": [
+        {
+            "model": "BWK",
+            "years": [
+                2009,
+                2027
+            ]
+        },
+        {
+            "model": "ELEGANCE",
+            "years": [
+                2008,
+                2027
+            ]
+        },
+        {
+            "model": "HARLY",
+            "years": [
+                2009,
+                2027
+            ]
+        },
+        {
+            "model": "POWER",
+            "years": [
+                2009,
+                2027
+            ]
+        }
+    ],
+    "AIMA": [
+        {
+            "model": "A500",
+            "years": [
+                2022,
+                2027
+            ]
+        },
+        {
+            "model": "MAK 3",
+            "years": [
+                2022,
+                2027
+            ]
+        },
+        {
+            "model": "POWER 3",
+            "years": [
+                2022,
+                2027
+            ]
+        },
+        {
+            "model": "T3",
+            "years": [
+                2022,
+                2027
+            ]
+        }
+    ],
+    "AKT": [
+        {
+            "model": "AK",
+            "years": [
+                2004,
+                2027
+            ]
+        },
+        {
+            "model": "CHR",
+            "years": [
+                2025,
+                2027
+            ]
+        },
+        {
+            "model": "CR4",
+            "years": [
+                2022,
+                2027
+            ]
+        },
+        {
+            "model": "DS",
+            "years": [
+                2025,
+                2027
+            ]
+        },
+        {
+            "model": "DYNAMIC",
+            "years": [
+                2010,
+                2027
+            ]
+        },
+        {
+            "model": "EVO",
+            "years": [
+                2015,
+                2027
+            ]
+        },
+        {
+            "model": "FLEX",
+            "years": [
+                2009,
+                2027
+            ]
+        },
+        {
+            "model": "JET",
+            "years": [
+                2011,
+                2027
+            ]
+        },
+        {
+            "model": "KOMFORT",
+            "years": [
+                2013,
+                2027
+            ]
+        },
+        {
+            "model": "MAWI",
+            "years": [
+                2023,
+                2027
+            ]
+        },
+        {
+            "model": "RTX",
+            "years": [
+                2014,
+                2027
+            ]
+        },
+        {
+            "model": "TT",
+            "years": [
+                2013,
+                2027
+            ]
+        },
+        {
+            "model": "TTR",
+            "years": [
+                2013,
+                2027
+            ]
+        },
+        {
+            "model": "TTX",
+            "years": [
+                2016,
+                2027
+            ]
+        },
+        {
+            "model": "VOGE",
+            "years": [
+                2023,
+                2027
+            ]
+        }
+    ],
+    "AMC": [
+        {
+            "model": "AMC",
+            "years": [
+                2006,
+                2027
+            ]
+        },
+        {
+            "model": "DYNAMIC",
+            "years": [
+                2005,
+                2027
+            ]
+        },
+        {
+            "model": "F5",
+            "years": [
+                2007,
+                2027
+            ]
+        },
+        {
+            "model": "MERCURIO",
+            "years": [
+                2006,
+                2027
+            ]
+        },
+        {
+            "model": "WEST",
+            "years": [
+                2007,
+                2027
+            ]
+        },
+        {
+            "model": "WIND SPEED",
+            "years": [
+                2006,
+                2027
+            ]
+        }
+    ],
+    "AMPLE": [
+        {
+            "model": "ARES",
+            "years": [
+                2006,
+                2027
+            ]
+        },
+        {
+            "model": "ASTRO",
+            "years": [
+                2006,
+                2027
+            ]
+        },
+        {
+            "model": "CENTAURUS",
+            "years": [
+                2006,
+                2027
+            ]
+        },
+        {
+            "model": "EROS",
+            "years": [
+                2006,
+                2027
+            ]
+        },
+        {
+            "model": "HADE",
+            "years": [
+                2006,
+                2027
+            ]
+        },
+        {
+            "model": "HEBE",
+            "years": [
+                2006,
+                2027
+            ]
+        },
+        {
+            "model": "HESTIA",
+            "years": [
+                2006,
+                2027
+            ]
+        },
+        {
+            "model": "KRONOS",
+            "years": [
+                2006,
+                2027
+            ]
+        },
+        {
+            "model": "PEPE",
+            "years": [
+                2007,
+                2027
+            ]
+        },
+        {
+            "model": "TANTA",
+            "years": [
+                2006,
+                2027
+            ]
+        },
+        {
+            "model": "YORK",
+            "years": [
+                2006,
+                2027
+            ]
+        }
+    ],
+    "ANDES": [
+        {
+            "model": "PREDATOR",
+            "years": [
+                2019,
+                2027
+            ]
+        }
+    ],
+    "APRILIA": [
+        {
+            "model": "CAPONORD",
+            "years": [
+                2014,
+                2027
+            ]
+        },
+        {
+            "model": "DORSODURO",
+            "years": [
+                2008,
+                2027
+            ]
+        },
+        {
+            "model": "ETV 1000",
+            "years": [
+                2004,
+                2027
+            ]
+        },
+        {
+            "model": "ETX",
+            "years": [
+                2015,
+                2027
+            ]
+        },
+        {
+            "model": "MANA",
+            "years": [
+                2009,
+                2027
+            ]
+        },
+        {
+            "model": "RS",
+            "years": [
+                2021,
+                2027
+            ]
+        },
+        {
+            "model": "RSV",
+            "years": [
+                2009,
+                2027
+            ]
+        },
+        {
+            "model": "RSV4",
+            "years": [
+                2017,
+                2027
+            ]
+        },
+        {
+            "model": "RXV",
+            "years": [
+                2009,
+                2027
+            ]
+        },
+        {
+            "model": "SCARABEO",
+            "years": [
+                1996,
+                2027
+            ]
+        },
+        {
+            "model": "SHIVER",
+            "years": [
+                2009,
+                2027
+            ]
+        },
+        {
+            "model": "SPORT CITY ONE",
+            "years": [
+                2009,
+                2027
+            ]
+        },
+        {
+            "model": "SR GT",
+            "years": [
+                2022,
+                2027
+            ]
+        },
+        {
+            "model": "SR MAX",
+            "years": [
+                2014,
+                2027
+            ]
+        },
+        {
+            "model": "SR MOTARD",
+            "years": [
+                2021,
+                2027
+            ]
+        },
+        {
+            "model": "SR50 R",
+            "years": [
+                2009,
+                2027
+            ]
+        },
+        {
+            "model": "SRX",
+            "years": [
+                2022,
+                2027
+            ]
+        },
+        {
+            "model": "STX",
+            "years": [
+                2015,
+                2027
+            ]
+        },
+        {
+            "model": "SXV",
+            "years": [
+                2008,
+                2027
+            ]
+        },
+        {
+            "model": "TAUREG",
+            "years": [
+                2022,
+                2027
+            ]
+        },
+        {
+            "model": "TUONO",
+            "years": [
+                2009,
+                2027
+            ]
+        }
+    ],
+    "ATM": [
+        {
+            "model": "NINJA",
+            "years": [
+                2008,
+                2027
+            ]
+        },
+        {
+            "model": "XZ",
+            "years": [
+                2008,
+                2027
+            ]
+        }
+    ],
+    "AUPACO": [
+        {
+            "model": "OB 125",
+            "years": [
+                2007,
+                2027
+            ]
+        },
+        {
+            "model": "OB 150",
+            "years": [
+                2005,
+                2027
+            ]
+        },
+        {
+            "model": "OB 200",
+            "years": [
+                2007,
+                2027
+            ]
+        }
+    ],
+    "AVA": [
+        {
+            "model": "AVA150T",
+            "years": [
+                2010,
+                2027
+            ]
+        }
+    ],
+    "AYCO": [
+        {
+            "model": "AY",
+            "years": [
+                2006,
+                2027
+            ]
+        },
+        {
+            "model": "AYZ",
+            "years": [
+                2015,
+                2027
+            ]
+        },
+        {
+            "model": "CUSTOM",
+            "years": [
+                2007,
+                2027
+            ]
+        },
+        {
+            "model": "LX",
+            "years": [
+                2007,
+                2027
+            ]
+        }
+    ],
+    "BAJAJ": [
+        {
+            "model": "AVANTI",
+            "years": [
+                2003,
+                2027
+            ]
+        },
+        {
+            "model": "AVENGER",
+            "years": [
+                2015,
+                2027
+            ]
+        },
+        {
+            "model": "BAJAJ",
+            "years": [
+                2022,
+                2027
+            ]
+        },
+        {
+            "model": "BOXER",
+            "years": [
+                2002,
+                2027
+            ]
+        },
+        {
+            "model": "BRAVO",
+            "years": [
+                2001,
+                2027
+            ]
+        },
+        {
+            "model": "CALIBER II",
+            "years": [
+                2004,
+                2027
+            ]
+        },
+        {
+            "model": "DISCOVER",
+            "years": [
+                2007,
+                2027
+            ]
+        },
+        {
+            "model": "DOMINAR",
+            "years": [
+                2017,
+                2027
+            ]
+        },
+        {
+            "model": "KB",
+            "years": [
+                1998,
+                2027
+            ]
+        },
+        {
+            "model": "KTZ",
+            "years": [
+                1996,
+                2027
+            ]
+        },
+        {
+            "model": "LEGEND",
+            "years": [
+                2002,
+                2027
+            ]
+        },
+        {
+            "model": "MAX",
+            "years": [
+                2005,
+                2027
+            ]
+        },
+        {
+            "model": "NXT",
+            "years": [
+                2002,
+                2027
+            ]
+        },
+        {
+            "model": "PLATINO",
+            "years": [
+                2008,
+                2027
+            ]
+        },
+        {
+            "model": "PLUS CLASSIC",
+            "years": [
+                1995,
+                2027
+            ]
+        },
+        {
+            "model": "PLUS POWER",
+            "years": [
+                1995,
+                2027
+            ]
+        },
+        {
+            "model": "PULSAR",
+            "years": [
+                2004,
+                2027
+            ]
+        },
+        {
+            "model": "PULSAR II",
+            "years": [
+                2007,
+                2027
+            ]
+        },
+        {
+            "model": "SPIRIT",
+            "years": [
+                2002,
+                2027
+            ]
+        },
+        {
+            "model": "SUMA",
+            "years": [
+                1994,
+                2027
+            ]
+        },
+        {
+            "model": "SUNNY",
+            "years": [
+                1998,
+                2027
+            ]
+        },
+        {
+            "model": "V12",
+            "years": [
+                2019,
+                2027
+            ]
+        },
+        {
+            "model": "VICTORY",
+            "years": [
+                2005,
+                2027
+            ]
+        },
+        {
+            "model": "XCD",
+            "years": [
+                2008,
+                2027
+            ]
+        },
+        {
+            "model": "ZIP",
+            "years": [
+                1998,
+                2027
+            ]
+        }
+    ],
+    "BENELLI": [
+        {
+            "model": "180",
+            "years": [
+                2021,
+                2027
+            ]
+        },
+        {
+            "model": "251",
+            "years": [
+                2023,
+                2027
+            ]
+        },
+        {
+            "model": "302",
+            "years": [
+                2021,
+                2027
+            ]
+        },
+        {
+            "model": "502",
+            "years": [
+                2022,
+                2027
+            ]
+        },
+        {
+            "model": "752",
+            "years": [
+                2022,
+                2027
+            ]
+        },
+        {
+            "model": "BN",
+            "years": [
+                2014,
+                2027
+            ]
+        },
+        {
+            "model": "IMPERIALE",
+            "years": [
+                2022,
+                2027
+            ]
+        },
+        {
+            "model": "LEONCINO",
+            "years": [
+                2019,
+                2027
+            ]
+        },
+        {
+            "model": "TNT",
+            "years": [
+                2012,
+                2027
+            ]
+        },
+        {
+            "model": "TRE K",
+            "years": [
+                2012,
+                2027
+            ]
+        },
+        {
+            "model": "TRK",
+            "years": [
+                2019,
+                2027
+            ]
+        }
+    ],
+    "BERA": [
+        {
+            "model": "GBR",
+            "years": [
+                2026,
+                2027
+            ]
+        },
+        {
+            "model": "MILAN",
+            "years": [
+                2025,
+                2027
+            ]
+        },
+        {
+            "model": "SBR",
+            "years": [
+                2024,
+                2027
+            ]
+        }
+    ],
+    "BETA": [
+        {
+            "model": "PREDATOR",
+            "years": [
+                2019,
+                2027
+            ]
+        }
+    ],
+    "BIOLOGICA": [
+        {
+            "model": "B3",
+            "years": [
+                2021,
+                2027
+            ]
+        },
+        {
+            "model": "NEO",
+            "years": [
+                2020,
+                2027
+            ]
+        },
+        {
+            "model": "PORTIVA",
+            "years": [
+                2021,
+                2027
+            ]
+        },
+        {
+            "model": "S3",
+            "years": [
+                2020,
+                2027
+            ]
+        },
+        {
+            "model": "T2",
+            "years": [
+                2020,
+                2027
+            ]
+        },
+        {
+            "model": "Z9",
+            "years": [
+                2020,
+                2027
+            ]
+        }
+    ],
+    "BMW": [
+        {
+            "model": "C1",
+            "years": [
+                2001,
+                2027
+            ]
+        },
+        {
+            "model": "CE",
+            "years": [
+                2022,
+                2027
+            ]
+        },
+        {
+            "model": "F 650",
+            "years": [
+                1995,
+                2027
+            ]
+        },
+        {
+            "model": "F 700",
+            "years": [
+                2013,
+                2027
+            ]
+        },
+        {
+            "model": "F 750",
+            "years": [
+                2019,
+                2027
+            ]
+        },
+        {
+            "model": "F 800",
+            "years": [
+                2007,
+                2027
+            ]
+        },
+        {
+            "model": "F 850",
+            "years": [
+                2019,
+                2027
+            ]
+        },
+        {
+            "model": "F 900",
+            "years": [
+                2020,
+                2027
+            ]
+        },
+        {
+            "model": "G 310",
+            "years": [
+                2017,
+                2027
+            ]
+        },
+        {
+            "model": "G 450",
+            "years": [
+                2009,
+                2027
+            ]
+        },
+        {
+            "model": "G 650",
+            "years": [
+                2007,
+                2027
+            ]
+        },
+        {
+            "model": "HP2",
+            "years": [
+                2006,
+                2027
+            ]
+        },
+        {
+            "model": "HP4",
+            "years": [
+                2013,
+                2027
+            ]
+        },
+        {
+            "model": "R 1300",
+            "years": [
+                2025,
+                2027
+            ]
+        }
+    ],
+    "BORGO": [
+        {
+            "model": "EVOLUTION",
+            "years": [
+                2005,
+                2027
+            ]
+        }
+    ],
+    "BRENSON": [
+        {
+            "model": "SCOOTER",
+            "years": [
+                2022,
+                2027
+            ]
+        }
+    ],
+    "CAGIVA": [
+        {
+            "model": "BLUES",
+            "years": [
+                1993,
+                2027
+            ]
+        },
+        {
+            "model": "CANYON",
+            "years": [
+                1999,
+                2027
+            ]
+        },
+        {
+            "model": "COCIS",
+            "years": [
+                1993,
+                2027
+            ]
+        },
+        {
+            "model": "FRECCIA",
+            "years": [
+                1993,
+                2027
+            ]
+        },
+        {
+            "model": "MITO",
+            "years": [
+                1993,
+                2027
+            ]
+        },
+        {
+            "model": "ROADSTER",
+            "years": [
+                1994,
+                2027
+            ]
+        },
+        {
+            "model": "SUPER CITY",
+            "years": [
+                1993,
+                2027
+            ]
+        },
+        {
+            "model": "W12",
+            "years": [
+                1994,
+                2027
+            ]
+        },
+        {
+            "model": "W8",
+            "years": [
+                1993,
+                2027
+            ]
+        }
+    ],
+    "CFMOTO": [
+        {
+            "model": "CLC",
+            "years": [
+                2024,
+                2027
+            ]
+        },
+        {
+            "model": "CLX",
+            "years": [
+                2022,
+                2027
+            ]
+        },
+        {
+            "model": "GT",
+            "years": [
+                2020,
+                2027
+            ]
+        },
+        {
+            "model": "MT",
+            "years": [
+                2018,
+                2027
+            ]
+        },
+        {
+            "model": "NK",
+            "years": [
+                2018,
+                2027
+            ]
+        },
+        {
+            "model": "SR",
+            "years": [
+                2021,
+                2027
+            ]
+        },
+        {
+            "model": "SR-R",
+            "years": [
+                2025,
+                2027
+            ]
+        },
+        {
+            "model": "SR-S",
+            "years": [
+                2024,
+                2027
+            ]
+        },
+        {
+            "model": "XO PAPIO",
+            "years": [
+                2024,
+                2027
+            ]
+        },
+        {
+            "model": "ZEEHO",
+            "years": [
+                2024,
+                2027
+            ]
+        }
+    ],
+    "CIRCULA VERDE": [
+        {
+            "model": "DPX",
+            "years": [
+                2020,
+                2027
+            ]
+        },
+        {
+            "model": "RAPID",
+            "years": [
+                2019,
+                2027
+            ]
+        },
+        {
+            "model": "TAURUS",
+            "years": [
+                2020,
+                2027
+            ]
+        }
+    ],
+    "CMC": [
+        {
+            "model": "FREE WAY",
+            "years": [
+                2007,
+                2027
+            ]
+        },
+        {
+            "model": "HURRICANE",
+            "years": [
+                2007,
+                2027
+            ]
+        },
+        {
+            "model": "MONTAIN TRIAL",
+            "years": [
+                2007,
+                2027
+            ]
+        },
+        {
+            "model": "SPORT",
+            "years": [
+                2007,
+                2027
+            ]
+        },
+        {
+            "model": "STORMWIND",
+            "years": [
+                2007,
+                2027
+            ]
+        },
+        {
+            "model": "V FIGHT",
+            "years": [
+                2007,
+                2027
+            ]
+        }
+    ],
+    "COMBAT": [
+        {
+            "model": "COMBAT",
+            "years": [
+                2021,
+                2027
+            ]
+        }
+    ],
+    "DAYANG": [
+        {
+            "model": "DY",
+            "years": [
+                2006,
+                2027
+            ]
+        }
+    ],
+    "DERBI": [
+        {
+            "model": "RAMBLA",
+            "years": [
+                2008,
+                2027
+            ]
+        },
+        {
+            "model": "SENDA",
+            "years": [
+                2008,
+                2027
+            ]
+        }
+    ],
+    "DUCATI": [
+        {
+            "model": "DESERT",
+            "years": [
+                2022,
+                2027
+            ]
+        },
+        {
+            "model": "DIAVEL",
+            "years": [
+                2011,
+                2027
+            ]
+        },
+        {
+            "model": "HYPERMOTARD",
+            "years": [
+                2008,
+                2027
+            ]
+        },
+        {
+            "model": "HYPERSTRADA",
+            "years": [
+                2013,
+                2027
+            ]
+        },
+        {
+            "model": "MONSTER",
+            "years": [
+                2005,
+                2027
+            ]
+        },
+        {
+            "model": "MULTISTRADA",
+            "years": [
+                2005,
+                2027
+            ]
+        },
+        {
+            "model": "SCRAMBLER",
+            "years": [
+                2015,
+                2027
+            ]
+        },
+        {
+            "model": "SPORTCLASSIC",
+            "years": [
+                2010,
+                2027
+            ]
+        },
+        {
+            "model": "STREETFIGHTER",
+            "years": [
+                2010,
+                2027
+            ]
+        },
+        {
+            "model": "SUPERBIKE",
+            "years": [
+                1991,
+                2027
+            ]
+        },
+        {
+            "model": "SUPERSPORT",
+            "years": [
+                1995,
+                2027
+            ]
+        },
+        {
+            "model": "XDIAVEL",
+            "years": [
+                2016,
+                2027
+            ]
+        }
+    ],
+    "EUROPAMOTOS": [
+        {
+            "model": "DD",
+            "years": [
+                2010,
+                2027
+            ]
+        },
+        {
+            "model": "MR",
+            "years": [
+                2009,
+                2027
+            ]
+        },
+        {
+            "model": "MS",
+            "years": [
+                2009,
+                2027
+            ]
+        },
+        {
+            "model": "SR",
+            "years": [
+                2009,
+                2027
+            ]
+        }
+    ],
+    "FIRENZE": [
+        {
+            "model": "CG 125",
+            "years": [
+                2006,
+                2027
+            ]
+        },
+        {
+            "model": "ED 150",
+            "years": [
+                2006,
+                2027
+            ]
+        },
+        {
+            "model": "HD 150",
+            "years": [
+                2006,
+                2027
+            ]
+        },
+        {
+            "model": "MP 110",
+            "years": [
+                2006,
+                2027
+            ]
+        },
+        {
+            "model": "R2 200",
+            "years": [
+                2006,
+                2027
+            ]
+        },
+        {
+            "model": "SC 150",
+            "years": [
+                2006,
+                2027
+            ]
+        },
+        {
+            "model": "TR 150",
+            "years": [
+                2006,
+                2027
+            ]
+        }
+    ],
+    "FRATELLI": [
+        {
+            "model": "FS",
+            "years": [
+                2022,
+                2027
+            ]
+        },
+        {
+            "model": "LIGERA",
+            "years": [
+                2023,
+                2027
+            ]
+        },
+        {
+            "model": "SFR",
+            "years": [
+                2020,
+                2027
+            ]
+        },
+        {
+            "model": "SFRX",
+            "years": [
+                2026,
+                2027
+            ]
+        },
+        {
+            "model": "SFS",
+            "years": [
+                2022,
+                2027
+            ]
+        },
+        {
+            "model": "STELLA",
+            "years": [
+                2025,
+                2027
+            ]
+        },
+        {
+            "model": "VELOCE",
+            "years": [
+                2025,
+                2027
+            ]
+        },
+        {
+            "model": "XE",
+            "years": [
+                2022,
+                2027
+            ]
+        }
+    ],
+    "GAS GAS": [
+        {
+            "model": "EC",
+            "years": [
+                2007,
+                2027
+            ]
+        },
+        {
+            "model": "ES",
+            "years": [
+                2022,
+                2027
+            ]
+        },
+        {
+            "model": "FSR",
+            "years": [
+                2005,
+                2027
+            ]
+        },
+        {
+            "model": "SM",
+            "years": [
+                2022,
+                2027
+            ]
+        }
+    ],
+    "GOGORO": [
+        {
+            "model": "S2",
+            "years": [
+                2023,
+                2027
+            ]
+        },
+        {
+            "model": "VIVA",
+            "years": [
+                2023,
+                2027
+            ]
+        }
+    ],
+    "GOMOTOR": [
+        {
+            "model": "125",
+            "years": [
+                2008,
+                2027
+            ]
+        },
+        {
+            "model": "CHALLENGER",
+            "years": [
+                2007,
+                2027
+            ]
+        },
+        {
+            "model": "KT",
+            "years": [
+                2008,
+                2027
+            ]
+        },
+        {
+            "model": "PRINCE",
+            "years": [
+                2007,
+                2027
+            ]
+        },
+        {
+            "model": "ROCKET",
+            "years": [
+                2007,
+                2027
+            ]
+        },
+        {
+            "model": "SKY",
+            "years": [
+                2006,
+                2027
+            ]
+        }
+    ],
+    "GUZI": [
+        {
+            "model": "100",
+            "years": [
+                2008,
+                2027
+            ]
+        },
+        {
+            "model": "125",
+            "years": [
+                2007,
+                2027
+            ]
+        },
+        {
+            "model": "200",
+            "years": [
+                2008,
+                2027
+            ]
+        },
+        {
+            "model": "GUZI",
+            "years": [
+                2008,
+                2027
+            ]
+        },
+        {
+            "model": "SUPER BIKES",
+            "years": [
+                2007,
+                2027
+            ]
+        }
+    ],
+    "HALEI": [
+        {
+            "model": "HL",
+            "years": [
+                2005,
+                2027
+            ]
+        }
+    ],
+    "HAOJIANG": [
+        {
+            "model": "ZONTES",
+            "years": [
+                2011,
+                2027
+            ]
+        }
+    ],
+    "HAOJUE": [
+        {
+            "model": "COOL",
+            "years": [
+                2016,
+                2027
+            ]
+        },
+        {
+            "model": "DH125",
+            "years": [
+                2019,
+                2027
+            ]
+        },
+        {
+            "model": "HJ110-7C",
+            "years": [
+                2019,
+                2027
+            ]
+        },
+        {
+            "model": "HJ125-8T",
+            "years": [
+                2020,
+                2027
+            ]
+        },
+        {
+            "model": "HJ125T-18A",
+            "years": [
+                2020,
+                2027
+            ]
+        },
+        {
+            "model": "KA150",
+            "years": [
+                2020,
+                2027
+            ]
+        },
+        {
+            "model": "LUCKY SPORTS",
+            "years": [
+                2017,
+                2027
+            ]
+        },
+        {
+            "model": "TR150-S",
+            "years": [
+                2020,
+                2027
+            ]
+        },
+        {
+            "model": "TZ150-S",
+            "years": [
+                2020,
+                2027
+            ]
+        }
+    ],
+    "HARLEY DAVIDSON": [
+        {
+            "model": "BREAKOUT",
+            "years": [
+                2018,
+                2027
+            ]
+        },
+        {
+            "model": "CVO",
+            "years": [
+                2013,
+                2027
+            ]
+        },
+        {
+            "model": "DYNA",
+            "years": [
+                1998,
+                2027
+            ]
+        },
+        {
+            "model": "ELECTRA GLIDE",
+            "years": [
+                1996,
+                2027
+            ]
+        },
+        {
+            "model": "FAT BOY",
+            "years": [
+                1993,
+                2027
+            ]
+        },
+        {
+            "model": "FLFB",
+            "years": [
+                2025,
+                2027
+            ]
+        },
+        {
+            "model": "FLI HYDRA",
+            "years": [
+                2024,
+                2027
+            ]
+        },
+        {
+            "model": "FXDR",
+            "years": [
+                2019,
+                2027
+            ]
+        },
+        {
+            "model": "FXLRS",
+            "years": [
+                2022,
+                2027
+            ]
+        },
+        {
+            "model": "HERITAGE",
+            "years": [
+                1991,
+                2027
+            ]
+        },
+        {
+            "model": "LOW RIDER",
+            "years": [
+                1991,
+                2027
+            ]
+        },
+        {
+            "model": "NIGHT ROD",
+            "years": [
+                2006,
+                2027
+            ]
+        },
+        {
+            "model": "NIGHT ROD SPECIAL",
+            "years": [
+                2007,
+                2027
+            ]
+        },
+        {
+            "model": "NIGHT TRAIN",
+            "years": [
+                2006,
+                2027
+            ]
+        },
+        {
+            "model": "NIGHTSTER",
+            "years": [
+                2023,
+                2027
+            ]
+        },
+        {
+            "model": "PAN AMERICAN",
+            "years": [
+                2021,
+                2027
+            ]
+        },
+        {
+            "model": "ROAD GLIDE",
+            "years": [
+                2016,
+                2027
+            ]
+        },
+        {
+            "model": "ROAD KING",
+            "years": [
+                2004,
+                2027
+            ]
+        },
+        {
+            "model": "ROCKER C",
+            "years": [
+                2011,
+                2027
+            ]
+        },
+        {
+            "model": "SOFTAIL",
+            "years": [
+                2001,
+                2027
+            ]
+        },
+        {
+            "model": "SPORTSTER",
+            "years": [
+                1998,
+                2027
+            ]
+        },
+        {
+            "model": "STREET",
+            "years": [
+                2016,
+                2027
+            ]
+        },
+        {
+            "model": "STREET GLIDE",
+            "years": [
+                2006,
+                2027
+            ]
+        },
+        {
+            "model": "STREET ROD",
+            "years": [
+                2006,
+                2027
+            ]
+        },
+        {
+            "model": "ULTRA LIMITED",
+            "years": [
+                2018,
+                2027
+            ]
+        },
+        {
+            "model": "V-ROD",
+            "years": [
+                2003,
+                2027
+            ]
+        }
+    ],
+    "HERO": [
+        {
+            "model": "DASH",
+            "years": [
+                2017,
+                2027
+            ]
+        },
+        {
+            "model": "ECO",
+            "years": [
+                2015,
+                2027
+            ]
+        },
+        {
+            "model": "GLAMOUR",
+            "years": [
+                2015,
+                2027
+            ]
+        },
+        {
+            "model": "HUNK",
+            "years": [
+                2013,
+                2027
+            ]
+        },
+        {
+            "model": "IGNITOR",
+            "years": [
+                2019,
+                2027
+            ]
+        },
+        {
+            "model": "KARIZMA",
+            "years": [
+                2015,
+                2027
+            ]
+        },
+        {
+            "model": "PASSION",
+            "years": [
+                2015,
+                2027
+            ]
+        },
+        {
+            "model": "SPLENDOR",
+            "years": [
+                2015,
+                2027
+            ]
+        },
+        {
+            "model": "SUPER",
+            "years": [
+                2015,
+                2027
+            ]
+        },
+        {
+            "model": "THRILLER",
+            "years": [
+                2013,
+                2027
+            ]
+        },
+        {
+            "model": "XOOM",
+            "years": [
+                2026,
+                2027
+            ]
+        },
+        {
+            "model": "XPULSE",
+            "years": [
+                2019,
+                2027
+            ]
+        }
+    ],
+    "HONDA": [
+        {
+            "model": "ADV",
+            "years": [
+                2025,
+                2027
+            ]
+        },
+        {
+            "model": "AERO",
+            "years": [
+                1995,
+                2027
+            ]
+        },
+        {
+            "model": "AFRICA TWIN",
+            "years": [
+                2016,
+                2027
+            ]
+        },
+        {
+            "model": "BIZ",
+            "years": [
+                1999,
+                2027
+            ]
+        },
+        {
+            "model": "C100",
+            "years": [
+                2005,
+                2027
+            ]
+        },
+        {
+            "model": "C70",
+            "years": [
+                1988,
+                2027
+            ]
+        },
+        {
+            "model": "C90",
+            "years": [
+                1995,
+                2027
+            ]
+        },
+        {
+            "model": "CB",
+            "years": [
+                1990,
+                2027
+            ]
+        },
+        {
+            "model": "CB600F",
+            "years": [
+                2008,
+                2027
+            ]
+        },
+        {
+            "model": "CB900F",
+            "years": [
+                2007,
+                2027
+            ]
+        },
+        {
+            "model": "CBF",
+            "years": [
+                2007,
+                2027
+            ]
+        },
+        {
+            "model": "CBR",
+            "years": [
+                1991,
+                2027
+            ]
+        },
+        {
+            "model": "CBX",
+            "years": [
+                2005,
+                2027
+            ]
+        },
+        {
+            "model": "CBZ",
+            "years": [
+                2000,
+                2027
+            ]
+        },
+        {
+            "model": "CD",
+            "years": [
+                1996,
+                2027
+            ]
+        },
+        {
+            "model": "CG",
+            "years": [
+                2000,
+                2027
+            ]
+        },
+        {
+            "model": "CGL",
+            "years": [
+                2004,
+                2027
+            ]
+        },
+        {
+            "model": "CH",
+            "years": [
+                1994,
+                2027
+            ]
+        },
+        {
+            "model": "CLICK",
+            "years": [
+                2015,
+                2027
+            ]
+        },
+        {
+            "model": "CM",
+            "years": [
+                1982,
+                2027
+            ]
+        },
+        {
+            "model": "CMX",
+            "years": [
+                2023,
+                2027
+            ]
+        },
+        {
+            "model": "CRF",
+            "years": [
+                2003,
+                2027
+            ]
+        },
+        {
+            "model": "DIO",
+            "years": [
+                2017,
+                2027
+            ]
+        },
+        {
+            "model": "DREAM",
+            "years": [
+                2015,
+                2027
+            ]
+        },
+        {
+            "model": "E STORM",
+            "years": [
+                2006,
+                2027
+            ]
+        },
+        {
+            "model": "ECO",
+            "years": [
+                2004,
+                2027
+            ]
+        },
+        {
+            "model": "ELITE",
+            "years": [
+                2006,
+                2027
+            ]
+        },
+        {
+            "model": "ELITE +",
+            "years": [
+                2015,
+                2027
+            ]
+        },
+        {
+            "model": "GOLD WING",
+            "years": [
+                1993,
+                2027
+            ]
+        },
+        {
+            "model": "HAWK",
+            "years": [
+                2001,
+                2027
+            ]
+        },
+        {
+            "model": "INTERSTATE",
+            "years": [
+                2011,
+                2027
+            ]
+        },
+        {
+            "model": "KARIZMA",
+            "years": [
+                2004,
+                2027
+            ]
+        },
+        {
+            "model": "LEAD",
+            "years": [
+                1988,
+                2027
+            ]
+        },
+        {
+            "model": "MAGNA",
+            "years": [
+                1994,
+                2027
+            ]
+        },
+        {
+            "model": "MONKEY",
+            "years": [
+                2019,
+                2027
+            ]
+        },
+        {
+            "model": "NAVI",
+            "years": [
+                2017,
+                2027
+            ]
+        },
+        {
+            "model": "NC",
+            "years": [
+                2012,
+                2027
+            ]
+        },
+        {
+            "model": "NF",
+            "years": [
+                2005,
+                2027
+            ]
+        },
+        {
+            "model": "NT",
+            "years": [
+                2025,
+                2027
+            ]
+        },
+        {
+            "model": "NX",
+            "years": [
+                2024,
+                2027
+            ]
+        },
+        {
+            "model": "NX4",
+            "years": [
+                2001,
+                2027
+            ]
+        },
+        {
+            "model": "NXR",
+            "years": [
+                2003,
+                2027
+            ]
+        },
+        {
+            "model": "PASSION",
+            "years": [
+                2001,
+                2027
+            ]
+        },
+        {
+            "model": "PC",
+            "years": [
+                1990,
+                2027
+            ]
+        },
+        {
+            "model": "PCX",
+            "years": [
+                2017,
+                2027
+            ]
+        },
+        {
+            "model": "REBEL",
+            "years": [
+                1998,
+                2027
+            ]
+        },
+        {
+            "model": "SAHARA",
+            "years": [
+                1994,
+                2027
+            ]
+        },
+        {
+            "model": "SHADOW",
+            "years": [
+                1992,
+                2027
+            ]
+        },
+        {
+            "model": "SPLENDOR",
+            "years": [
+                1997,
+                2027
+            ]
+        },
+        {
+            "model": "ST",
+            "years": [
+                2001,
+                2027
+            ]
+        },
+        {
+            "model": "SUPER SPLENDOR",
+            "years": [
+                2005,
+                2027
+            ]
+        },
+        {
+            "model": "TRANSALP",
+            "years": [
+                1990,
+                2027
+            ]
+        },
+        {
+            "model": "VARADERO",
+            "years": [
+                1999,
+                2027
+            ]
+        },
+        {
+            "model": "VFR",
+            "years": [
+                1991,
+                2027
+            ]
+        },
+        {
+            "model": "VT",
+            "years": [
+                1993,
+                2027
+            ]
+        },
+        {
+            "model": "WAVE",
+            "years": [
+                2014,
+                2027
+            ]
+        },
+        {
+            "model": "X-ADV",
+            "years": [
+                2018,
+                2027
+            ]
+        },
+        {
+            "model": "XBLADE",
+            "years": [
+                2022,
+                2027
+            ]
+        },
+        {
+            "model": "XL",
+            "years": [
+                1988,
+                2027
+            ]
+        },
+        {
+            "model": "XLR",
+            "years": [
+                1997,
+                2027
+            ]
+        },
+        {
+            "model": "XR",
+            "years": [
+                1990,
+                2027
+            ]
+        },
+        {
+            "model": "XRE",
+            "years": [
+                2014,
+                2027
+            ]
+        },
+        {
+            "model": "XRV",
+            "years": [
+                1997,
+                2027
+            ]
+        },
+        {
+            "model": "ZX",
+            "years": [
+                1998,
+                2027
+            ]
+        }
+    ],
+    "HONLEI": [
+        {
+            "model": "HL",
+            "years": [
+                2006,
+                2027
+            ]
+        }
+    ],
+    "HUALIN": [
+        {
+            "model": "GB",
+            "years": [
+                2012,
+                2027
+            ]
+        },
+        {
+            "model": "GV",
+            "years": [
+                2012,
+                2027
+            ]
+        },
+        {
+            "model": "HL",
+            "years": [
+                2012,
+                2027
+            ]
+        }
+    ],
+    "HUSQVARNA": [
+        {
+            "model": "701",
+            "years": [
+                2016,
+                2027
+            ]
+        },
+        {
+            "model": "NORDEN",
+            "years": [
+                2022,
+                2027
+            ]
+        },
+        {
+            "model": "NUDA",
+            "years": [
+                2012,
+                2027
+            ]
+        },
+        {
+            "model": "SM",
+            "years": [
+                2010,
+                2027
+            ]
+        },
+        {
+            "model": "SVARTPILEN",
+            "years": [
+                2018,
+                2027
+            ]
+        },
+        {
+            "model": "TE",
+            "years": [
+                2009,
+                2027
+            ]
+        },
+        {
+            "model": "VITPILEN",
+            "years": [
+                2018,
+                2027
+            ]
+        }
+    ],
+    "HYOSUNG": [
+        {
+            "model": "CAB 50",
+            "years": [
+                1994,
+                2027
+            ]
+        },
+        {
+            "model": "CRUISE 125",
+            "years": [
+                1995,
+                2027
+            ]
+        },
+        {
+            "model": "MX",
+            "years": [
+                1994,
+                2027
+            ]
+        },
+        {
+            "model": "SUPER WINDY",
+            "years": [
+                1994,
+                2027
+            ]
+        },
+        {
+            "model": "TN 125",
+            "years": [
+                1994,
+                2027
+            ]
+        }
+    ],
+    "IONIC MOTORS": [
+        {
+            "model": "IOPG",
+            "years": [
+                2024,
+                2027
+            ]
+        },
+        {
+            "model": "IOT",
+            "years": [
+                2023,
+                2027
+            ]
+        },
+        {
+            "model": "IOZ",
+            "years": [
+                2023,
+                2027
+            ]
+        }
+    ],
+    "JAWA": [
+        {
+            "model": "CZ",
+            "years": [
+                1993,
+                2027
+            ]
+        }
+    ],
+    "JIALING": [
+        {
+            "model": "160",
+            "years": [
+                2013,
+                2027
+            ]
+        },
+        {
+            "model": "JH",
+            "years": [
+                1995,
+                2027
+            ]
+        },
+        {
+            "model": "JH100 A",
+            "years": [
+                2004,
+                2027
+            ]
+        },
+        {
+            "model": "JL",
+            "years": [
+                2003,
+                2027
+            ]
+        },
+        {
+            "model": "X FIRE",
+            "years": [
+                2015,
+                2027
+            ]
+        },
+        {
+            "model": "X RAY",
+            "years": [
+                2015,
+                2027
+            ]
+        }
+    ],
+    "JINCHENG": [
+        {
+            "model": "JC",
+            "years": [
+                2002,
+                2027
+            ]
+        }
+    ],
+    "JINFENG": [
+        {
+            "model": "JF",
+            "years": [
+                2005,
+                2027
+            ]
+        }
+    ],
+    "KAWASAKI": [
+        {
+            "model": "CHEER",
+            "years": [
+                2002,
+                2027
+            ]
+        },
+        {
+            "model": "CONCURS",
+            "years": [
+                2008,
+                2027
+            ]
+        },
+        {
+            "model": "ER",
+            "years": [
+                2006,
+                2027
+            ]
+        },
+        {
+            "model": "G7",
+            "years": [
+                1988,
+                2027
+            ]
+        },
+        {
+            "model": "GTO 125",
+            "years": [
+                1998,
+                2027
+            ]
+        },
+        {
+            "model": "K1",
+            "years": [
+                1997,
+                2027
+            ]
+        },
+        {
+            "model": "KAZE",
+            "years": [
+                2005,
+                2027
+            ]
+        },
+        {
+            "model": "KDX",
+            "years": [
+                1992,
+                2027
+            ]
+        },
+        {
+            "model": "KE 100",
+            "years": [
+                1988,
+                2027
+            ]
+        },
+        {
+            "model": "KE 125",
+            "years": [
+                1990,
+                2027
+            ]
+        },
+        {
+            "model": "KE 175",
+            "years": [
+                1980,
+                2027
+            ]
+        },
+        {
+            "model": "KH",
+            "years": [
+                1972,
+                2027
+            ]
+        },
+        {
+            "model": "KLR",
+            "years": [
+                2006,
+                2027
+            ]
+        },
+        {
+            "model": "KLX",
+            "years": [
+                1995,
+                2027
+            ]
+        },
+        {
+            "model": "KMX",
+            "years": [
+                1991,
+                2027
+            ]
+        },
+        {
+            "model": "MAGIC",
+            "years": [
+                2000,
+                2027
+            ]
+        },
+        {
+            "model": "MAGIC II",
+            "years": [
+                2011,
+                2027
+            ]
+        },
+        {
+            "model": "NEO",
+            "years": [
+                1996,
+                2027
+            ]
+        },
+        {
+            "model": "NINJA",
+            "years": [
+                1991,
+                2027
+            ]
+        },
+        {
+            "model": "VERSYS",
+            "years": [
+                2007,
+                2027
+            ]
+        },
+        {
+            "model": "VERSYS X",
+            "years": [
+                2017,
+                2027
+            ]
+        },
+        {
+            "model": "VICTOR",
+            "years": [
+                1993,
+                2027
+            ]
+        },
+        {
+            "model": "VULCAN",
+            "years": [
+                1991,
+                2027
+            ]
+        },
+        {
+            "model": "W800",
+            "years": [
+                2012,
+                2027
+            ]
+        },
+        {
+            "model": "WIND",
+            "years": [
+                2005,
+                2027
+            ]
+        },
+        {
+            "model": "ZX",
+            "years": [
+                2008,
+                2027
+            ]
+        }
+    ],
+    "KAYAK": [
+        {
+            "model": "KN",
+            "years": [
+                2007,
+                2027
+            ]
+        }
+    ],
+    "KAZUKI": [
+        {
+            "model": "ADVENTURE",
+            "years": [
+                2006,
+                2027
+            ]
+        },
+        {
+            "model": "CNIKE",
+            "years": [
+                2007,
+                2027
+            ]
+        },
+        {
+            "model": "ENDURO",
+            "years": [
+                2008,
+                2027
+            ]
+        },
+        {
+            "model": "FORTUNE",
+            "years": [
+                2006,
+                2027
+            ]
+        },
+        {
+            "model": "JET",
+            "years": [
+                2007,
+                2027
+            ]
+        },
+        {
+            "model": "KZ 150",
+            "years": [
+                2006,
+                2027
+            ]
+        },
+        {
+            "model": "LINCOLN",
+            "years": [
+                2007,
+                2027
+            ]
+        },
+        {
+            "model": "NEW AGE",
+            "years": [
+                2008,
+                2027
+            ]
+        },
+        {
+            "model": "SCOOTER",
+            "years": [
+                2007,
+                2027
+            ]
+        }
+    ],
+    "KEEWAY": [
+        {
+            "model": "ARN",
+            "years": [
+                2008,
+                2027
+            ]
+        },
+        {
+            "model": "ARSEN",
+            "years": [
+                2011,
+                2027
+            ]
+        },
+        {
+            "model": "CITY",
+            "years": [
+                2017,
+                2027
+            ]
+        },
+        {
+            "model": "CRUISER",
+            "years": [
+                2009,
+                2027
+            ]
+        },
+        {
+            "model": "KEE",
+            "years": [
+                2012,
+                2027
+            ]
+        },
+        {
+            "model": "KW",
+            "years": [
+                2008,
+                2027
+            ]
+        },
+        {
+            "model": "OUTLOOK",
+            "years": [
+                2008,
+                2027
+            ]
+        },
+        {
+            "model": "PARTNER",
+            "years": [
+                2008,
+                2027
+            ]
+        },
+        {
+            "model": "RK",
+            "years": [
+                2019,
+                2027
+            ]
+        },
+        {
+            "model": "RKIII",
+            "years": [
+                2013,
+                2027
+            ]
+        },
+        {
+            "model": "RKS",
+            "years": [
+                2012,
+                2027
+            ]
+        },
+        {
+            "model": "RKV",
+            "years": [
+                2013,
+                2027
+            ]
+        },
+        {
+            "model": "SPEED",
+            "years": [
+                2007,
+                2027
+            ]
+        },
+        {
+            "model": "SUPERLIGHT",
+            "years": [
+                2008,
+                2027
+            ]
+        },
+        {
+            "model": "TARGET",
+            "years": [
+                2013,
+                2027
+            ]
+        },
+        {
+            "model": "TX",
+            "years": [
+                2012,
+                2027
+            ]
+        }
+    ],
+    "KOVE": [
+        {
+            "model": "321R",
+            "years": [
+                2024,
+                2027
+            ]
+        },
+        {
+            "model": "321RR",
+            "years": [
+                2024,
+                2027
+            ]
+        },
+        {
+            "model": "450",
+            "years": [
+                2024,
+                2027
+            ]
+        },
+        {
+            "model": "450RR",
+            "years": [
+                2024,
+                2027
+            ]
+        },
+        {
+            "model": "510X",
+            "years": [
+                2024,
+                2027
+            ]
+        },
+        {
+            "model": "800X",
+            "years": [
+                2024,
+                2027
+            ]
+        },
+        {
+            "model": "DAE",
+            "years": [
+                2024,
+                2027
+            ]
+        }
+    ],
+    "KTM": [
+        {
+            "model": "1050",
+            "years": [
+                2015,
+                2027
+            ]
+        },
+        {
+            "model": "1090",
+            "years": [
+                2017,
+                2027
+            ]
+        },
+        {
+            "model": "1190",
+            "years": [
+                2013,
+                2027
+            ]
+        },
+        {
+            "model": "125",
+            "years": [
+                2006,
+                2027
+            ]
+        },
+        {
+            "model": "1290",
+            "years": [
+                2014,
+                2027
+            ]
+        },
+        {
+            "model": "1390",
+            "years": [
+                2024,
+                2027
+            ]
+        },
+        {
+            "model": "200",
+            "years": [
+                2005,
+                2027
+            ]
+        },
+        {
+            "model": "250",
+            "years": [
+                1992,
+                2027
+            ]
+        },
+        {
+            "model": "300",
+            "years": [
+                2002,
+                2027
+            ]
+        },
+        {
+            "model": "350",
+            "years": [
+                2011,
+                2027
+            ]
+        },
+        {
+            "model": "390",
+            "years": [
+                2013,
+                2027
+            ]
+        },
+        {
+            "model": "450",
+            "years": [
+                2002,
+                2027
+            ]
+        },
+        {
+            "model": "50",
+            "years": [
+                2006,
+                2027
+            ]
+        },
+        {
+            "model": "500",
+            "years": [
+                2013,
+                2027
+            ]
+        },
+        {
+            "model": "520",
+            "years": [
+                2000,
+                2027
+            ]
+        },
+        {
+            "model": "525",
+            "years": [
+                2000,
+                2027
+            ]
+        },
+        {
+            "model": "530",
+            "years": [
+                2008,
+                2027
+            ]
+        },
+        {
+            "model": "640",
+            "years": [
+                2001,
+                2027
+            ]
+        },
+        {
+            "model": "65",
+            "years": [
+                1998,
+                2027
+            ]
+        },
+        {
+            "model": "690",
+            "years": [
+                2007,
+                2027
+            ]
+        },
+        {
+            "model": "790",
+            "years": [
+                2018,
+                2027
+            ]
+        },
+        {
+            "model": "85",
+            "years": [
+                2006,
+                2027
+            ]
+        },
+        {
+            "model": "890",
+            "years": [
+                2020,
+                2027
+            ]
+        },
+        {
+            "model": "950",
+            "years": [
+                2000,
+                2027
+            ]
+        },
+        {
+            "model": "990",
+            "years": [
+                2005,
+                2027
+            ]
+        },
+        {
+            "model": "BRABUS",
+            "years": [
+                2023,
+                2027
+            ]
+        },
+        {
+            "model": "LC4 640",
+            "years": [
+                2002,
+                2027
+            ]
+        },
+        {
+            "model": "RC",
+            "years": [
+                2015,
+                2027
+            ]
+        },
+        {
+            "model": "RC8",
+            "years": [
+                2008,
+                2027
+            ]
+        }
+    ],
+    "KYMCO": [
+        {
+            "model": "ACTIV",
+            "years": [
+                2003,
+                2027
+            ]
+        },
+        {
+            "model": "AGILITY",
+            "years": [
+                2007,
+                2027
+            ]
+        },
+        {
+            "model": "AK",
+            "years": [
+                2022,
+                2027
+            ]
+        },
+        {
+            "model": "BET & WIND",
+            "years": [
+                2004,
+                2027
+            ]
+        },
+        {
+            "model": "DOWNTOWN",
+            "years": [
+                2011,
+                2027
+            ]
+        },
+        {
+            "model": "FLY",
+            "years": [
+                2013,
+                2027
+            ]
+        },
+        {
+            "model": "JETIX",
+            "years": [
+                2011,
+                2027
+            ]
+        },
+        {
+            "model": "LIKE",
+            "years": [
+                2012,
+                2027
+            ]
+        },
+        {
+            "model": "ROCKET",
+            "years": [
+                2015,
+                2027
+            ]
+        },
+        {
+            "model": "SPIKE",
+            "years": [
+                2003,
+                2027
+            ]
+        },
+        {
+            "model": "SUPER 8",
+            "years": [
+                2023,
+                2027
+            ]
+        },
+        {
+            "model": "TOP BOY",
+            "years": [
+                2004,
+                2027
+            ]
+        },
+        {
+            "model": "TRACK",
+            "years": [
+                2015,
+                2027
+            ]
+        },
+        {
+            "model": "TWIST",
+            "years": [
+                2017,
+                2027
+            ]
+        },
+        {
+            "model": "UNI-K",
+            "years": [
+                2013,
+                2027
+            ]
+        },
+        {
+            "model": "URBAN",
+            "years": [
+                2018,
+                2027
+            ]
+        },
+        {
+            "model": "X-TOWN",
+            "years": [
+                2020,
+                2027
+            ]
+        },
+        {
+            "model": "XCITING",
+            "years": [
+                2010,
+                2027
+            ]
+        },
+        {
+            "model": "ZING",
+            "years": [
+                2000,
+                2027
+            ]
+        }
+    ],
+    "KYOTO": [
+        {
+            "model": "KY",
+            "years": [
+                2006,
+                2027
+            ]
+        }
+    ],
+    "LIFAN": [
+        {
+            "model": "LF",
+            "years": [
+                2001,
+                2027
+            ]
+        }
+    ],
+    "LML": [
+        {
+            "model": "STAR",
+            "years": [
+                2012,
+                2027
+            ]
+        }
+    ],
+    "LMX": [
+        {
+            "model": "125",
+            "years": [
+                2014,
+                2027
+            ]
+        }
+    ],
+    "MACBOR": [
+        {
+            "model": "MASTER",
+            "years": [
+                2018,
+                2027
+            ]
+        },
+        {
+            "model": "ROCKSTER",
+            "years": [
+                2018,
+                2027
+            ]
+        },
+        {
+            "model": "SPEED MASTER",
+            "years": [
+                2018,
+                2027
+            ]
+        }
+    ],
+    "MAXMOTOR": [
+        {
+            "model": "ALPINA",
+            "years": [
+                2008,
+                2027
+            ]
+        }
+    ],
+    "MD BIKES": [
+        {
+            "model": "GECKO",
+            "years": [
+                2007,
+                2027
+            ]
+        },
+        {
+            "model": "MAMBA",
+            "years": [
+                2007,
+                2027
+            ]
+        }
+    ],
+    "MORINI": [
+        {
+            "model": "ESCALIBUR",
+            "years": [
+                1993,
+                2027
+            ]
+        }
+    ],
+    "MOTO ABC": [
+        {
+            "model": "FK",
+            "years": [
+                2013,
+                2027
+            ]
+        },
+        {
+            "model": "FORNAX",
+            "years": [
+                2012,
+                2027
+            ]
+        },
+        {
+            "model": "LUXUR",
+            "years": [
+                2012,
+                2027
+            ]
+        },
+        {
+            "model": "NANO",
+            "years": [
+                2013,
+                2027
+            ]
+        },
+        {
+            "model": "TORNADO",
+            "years": [
+                2014,
+                2027
+            ]
+        },
+        {
+            "model": "WOLF",
+            "years": [
+                2012,
+                2027
+            ]
+        },
+        {
+            "model": "WY 125T",
+            "years": [
+                2014,
+                2027
+            ]
+        }
+    ],
+    "MOTO GUZZI": [
+        {
+            "model": "CALIFORNIA",
+            "years": [
+                2014,
+                2027
+            ]
+        },
+        {
+            "model": "GRISO",
+            "years": [
+                2015,
+                2027
+            ]
+        },
+        {
+            "model": "STELVIO",
+            "years": [
+                2014,
+                2027
+            ]
+        },
+        {
+            "model": "V10",
+            "years": [
+                1998,
+                2027
+            ]
+        },
+        {
+            "model": "V7",
+            "years": [
+                2022,
+                2027
+            ]
+        },
+        {
+            "model": "V7 II",
+            "years": [
+                2014,
+                2027
+            ]
+        },
+        {
+            "model": "V7 III",
+            "years": [
+                2020,
+                2027
+            ]
+        },
+        {
+            "model": "V85",
+            "years": [
+                2020,
+                2027
+            ]
+        },
+        {
+            "model": "V9",
+            "years": [
+                2020,
+                2027
+            ]
+        }
+    ],
+    "MTK": [
+        {
+            "model": "MT",
+            "years": [
+                2007,
+                2027
+            ]
+        }
+    ],
+    "MV AGUSTA": [
+        {
+            "model": "BRUTALE",
+            "years": [
+                2013,
+                2027
+            ]
+        },
+        {
+            "model": "DRAGSTER",
+            "years": [
+                2022,
+                2027
+            ]
+        },
+        {
+            "model": "F3",
+            "years": [
+                2013,
+                2027
+            ]
+        },
+        {
+            "model": "F4",
+            "years": [
+                2014,
+                2027
+            ]
+        },
+        {
+            "model": "LXP",
+            "years": [
+                2024,
+                2027
+            ]
+        },
+        {
+            "model": "RIVALE",
+            "years": [
+                2014,
+                2027
+            ]
+        },
+        {
+            "model": "STRADALE",
+            "years": [
+                2015,
+                2027
+            ]
+        },
+        {
+            "model": "TURISMO VELOCE",
+            "years": [
+                2022,
+                2027
+            ]
+        }
+    ],
+    "NITRO": [
+        {
+            "model": "NT",
+            "years": [
+                2007,
+                2027
+            ]
+        }
+    ],
+    "NIU": [
+        {
+            "model": "GOVA",
+            "years": [
+                2022,
+                2027
+            ]
+        },
+        {
+            "model": "M+",
+            "years": [
+                2019,
+                2027
+            ]
+        },
+        {
+            "model": "N-SERIES",
+            "years": [
+                2019,
+                2027
+            ]
+        },
+        {
+            "model": "NGT",
+            "years": [
+                2019,
+                2027
+            ]
+        }
+    ],
+    "PASSAGGIO": [
+        {
+            "model": "PSG",
+            "years": [
+                2008,
+                2027
+            ]
+        },
+        {
+            "model": "XGEN",
+            "years": [
+                2008,
+                2027
+            ]
+        }
+    ],
+    "PEUGEOT": [
+        {
+            "model": "FIGHT",
+            "years": [
+                2003,
+                2027
+            ]
+        },
+        {
+            "model": "JET FORCE",
+            "years": [
+                2004,
+                2027
+            ]
+        },
+        {
+            "model": "SPEEDFIGHT",
+            "years": [
+                1998,
+                2027
+            ]
+        },
+        {
+            "model": "SQUAB",
+            "years": [
+                1997,
+                2027
+            ]
+        },
+        {
+            "model": "TREKKER",
+            "years": [
+                1998,
+                2027
+            ]
+        }
+    ],
+    "PIAGGIO": [
+        {
+            "model": "BEVERLY",
+            "years": [
+                2015,
+                2027
+            ]
+        },
+        {
+            "model": "BRAVO",
+            "years": [
+                1993,
+                2027
+            ]
+        },
+        {
+            "model": "MP3",
+            "years": [
+                2021,
+                2027
+            ]
+        },
+        {
+            "model": "PX",
+            "years": [
+                1993,
+                2027
+            ]
+        },
+        {
+            "model": "QUARTZ",
+            "years": [
+                1992,
+                2027
+            ]
+        },
+        {
+            "model": "SFERA",
+            "years": [
+                1992,
+                2027
+            ]
+        },
+        {
+            "model": "SKIPPER",
+            "years": [
+                1994,
+                2027
+            ]
+        },
+        {
+            "model": "TYPHOON",
+            "years": [
+                1992,
+                2027
+            ]
+        },
+        {
+            "model": "VESPA",
+            "years": [
+                1993,
+                2027
+            ]
+        },
+        {
+            "model": "X10",
+            "years": [
+                2015,
+                2027
+            ]
+        }
+    ],
+    "PIONEER": [
+        {
+            "model": "XF",
+            "years": [
+                2005,
+                2027
+            ]
+        }
+    ],
+    "QINGQI": [
+        {
+            "model": "HERCULES",
+            "years": [
+                2012,
+                2027
+            ]
+        },
+        {
+            "model": "PREDATOR",
+            "years": [
+                2019,
+                2027
+            ]
+        },
+        {
+            "model": "QM",
+            "years": [
+                2006,
+                2027
+            ]
+        },
+        {
+            "model": "QM NAKED",
+            "years": [
+                2012,
+                2027
+            ]
+        },
+        {
+            "model": "QMR",
+            "years": [
+                2006,
+                2027
+            ]
+        },
+        {
+            "model": "QMT",
+            "years": [
+                2006,
+                2027
+            ]
+        }
+    ],
+    "ROYAL ENFIELD": [
+        {
+            "model": "BULLET",
+            "years": [
+                2009,
+                2027
+            ]
+        },
+        {
+            "model": "CLASSIC",
+            "years": [
+                2015,
+                2027
+            ]
+        },
+        {
+            "model": "CONTINENTAL",
+            "years": [
+                2015,
+                2027
+            ]
+        },
+        {
+            "model": "GRR",
+            "years": [
+                2025,
+                2027
+            ]
+        },
+        {
+            "model": "HIMALAYAN",
+            "years": [
+                2016,
+                2027
+            ]
+        },
+        {
+            "model": "HNTR",
+            "years": [
+                2023,
+                2027
+            ]
+        },
+        {
+            "model": "INTERCEPTOR",
+            "years": [
+                2019,
+                2027
+            ]
+        },
+        {
+            "model": "METEOR",
+            "years": [
+                2021,
+                2027
+            ]
+        },
+        {
+            "model": "RUMBLER",
+            "years": [
+                2015,
+                2027
+            ]
+        },
+        {
+            "model": "SCRAM",
+            "years": [
+                2022,
+                2027
+            ]
+        },
+        {
+            "model": "SHOTGUN",
+            "years": [
+                2025,
+                2027
+            ]
+        },
+        {
+            "model": "SUPER METEOR",
+            "years": [
+                2023,
+                2027
+            ]
+        },
+        {
+            "model": "TBX",
+            "years": [
+                2019,
+                2027
+            ]
+        },
+        {
+            "model": "THUNDERBIRD",
+            "years": [
+                2010,
+                2027
+            ]
+        }
+    ],
+    "SACHS": [
+        {
+            "model": "EAGLE",
+            "years": [
+                2008,
+                2027
+            ]
+        },
+        {
+            "model": "HJ",
+            "years": [
+                2008,
+                2027
+            ]
+        },
+        {
+            "model": "MADASS",
+            "years": [
+                2007,
+                2027
+            ]
+        },
+        {
+            "model": "ORION",
+            "years": [
+                2009,
+                2027
+            ]
+        },
+        {
+            "model": "SPEEDFORCE",
+            "years": [
+                2010,
+                2027
+            ]
+        },
+        {
+            "model": "X-ROAD",
+            "years": [
+                2008,
+                2027
+            ]
+        }
+    ],
+    "SANYA": [
+        {
+            "model": "SY",
+            "years": [
+                2008,
+                2027
+            ]
+        }
+    ],
+    "SCOMADI": [
+        {
+            "model": "TURISMO LEGGERA",
+            "years": [
+                2017,
+                2027
+            ]
+        }
+    ],
+    "SEAT": [
+        {
+            "model": "MO 125",
+            "years": [
+                2022,
+                2027
+            ]
+        }
+    ],
+    "SEGWAY": [
+        {
+            "model": "B110S",
+            "years": [
+                2022,
+                2027
+            ]
+        },
+        {
+            "model": "E110S",
+            "years": [
+                2022,
+                2027
+            ]
+        },
+        {
+            "model": "E125S",
+            "years": [
+                2022,
+                2027
+            ]
+        }
+    ],
+    "SHINERAY": [
+        {
+            "model": "PREDATOR",
+            "years": [
+                2019,
+                2027
+            ]
+        },
+        {
+            "model": "XY",
+            "years": [
+                2006,
+                2027
+            ]
+        }
+    ],
+    "SIGMA": [
+        {
+            "model": "MAX",
+            "years": [
+                2013,
+                2027
+            ]
+        },
+        {
+            "model": "SE",
+            "years": [
+                2012,
+                2027
+            ]
+        },
+        {
+            "model": "SG",
+            "years": [
+                2005,
+                2027
+            ]
+        },
+        {
+            "model": "XO",
+            "years": [
+                2016,
+                2027
+            ]
+        }
+    ],
+    "SKYGO": [
+        {
+            "model": "SG",
+            "years": [
+                2004,
+                2027
+            ]
+        }
+    ],
+    "SMC": [
+        {
+            "model": "SM",
+            "years": [
+                2008,
+                2027
+            ]
+        }
+    ],
+    "STARKER": [
+        {
+            "model": "AVANTI 2.0",
+            "years": [
+                2018,
+                2027
+            ]
+        },
+        {
+            "model": "AVANTI 3.0",
+            "years": [
+                2021,
+                2027
+            ]
+        },
+        {
+            "model": "AVANTI S",
+            "years": [
+                2023,
+                2027
+            ]
+        },
+        {
+            "model": "AVANTI X",
+            "years": [
+                2023,
+                2027
+            ]
+        },
+        {
+            "model": "E-CARGO",
+            "years": [
+                2019,
+                2027
+            ]
+        },
+        {
+            "model": "E3",
+            "years": [
+                2019,
+                2027
+            ]
+        },
+        {
+            "model": "HUNTER",
+            "years": [
+                2016,
+                2027
+            ]
+        },
+        {
+            "model": "MOVI",
+            "years": [
+                2018,
+                2027
+            ]
+        },
+        {
+            "model": "REACTOR",
+            "years": [
+                2020,
+                2027
+            ]
+        },
+        {
+            "model": "SHIPPER",
+            "years": [
+                2016,
+                2027
+            ]
+        },
+        {
+            "model": "SHIPPER ST",
+            "years": [
+                2016,
+                2027
+            ]
+        },
+        {
+            "model": "SKUTY LED",
+            "years": [
+                2019,
+                2027
+            ]
+        },
+        {
+            "model": "SKUTY ONE",
+            "years": [
+                2023,
+                2027
+            ]
+        },
+        {
+            "model": "SKUTY SPORT",
+            "years": [
+                2019,
+                2027
+            ]
+        },
+        {
+            "model": "SUNNY",
+            "years": [
+                2016,
+                2027
+            ]
+        },
+        {
+            "model": "SUPER SOCO",
+            "years": [
+                2017,
+                2027
+            ]
+        },
+        {
+            "model": "THUNDER",
+            "years": [
+                2020,
+                2027
+            ]
+        },
+        {
+            "model": "TROTTER",
+            "years": [
+                2018,
+                2027
+            ]
+        }
+    ],
+    "SUKIDA": [
+        {
+            "model": "SK",
+            "years": [
+                2007,
+                2027
+            ]
+        }
+    ],
+    "SUPER SOCO": [
+        {
+            "model": "CPX",
+            "years": [
+                2022,
+                2027
+            ]
+        },
+        {
+            "model": "CUMINI",
+            "years": [
+                2023,
+                2027
+            ]
+        },
+        {
+            "model": "CUX",
+            "years": [
+                2022,
+                2027
+            ]
+        },
+        {
+            "model": "NEW TC",
+            "years": [
+                2023,
+                2027
+            ]
+        },
+        {
+            "model": "NEW TS",
+            "years": [
+                2023,
+                2027
+            ]
+        }
+    ],
+    "SUZUKI": [
+        {
+            "model": "ACCESS",
+            "years": [
+                2021,
+                2027
+            ]
+        },
+        {
+            "model": "ADDRESS",
+            "years": [
+                2018,
+                2027
+            ]
+        },
+        {
+            "model": "ADRESS",
+            "years": [
+                2000,
+                2027
+            ]
+        },
+        {
+            "model": "AN",
+            "years": [
+                2000,
+                2027
+            ]
+        },
+        {
+            "model": "AVENIS",
+            "years": [
+                2023,
+                2027
+            ]
+        },
+        {
+            "model": "AX",
+            "years": [
+                1991,
+                2027
+            ]
+        },
+        {
+            "model": "AX4",
+            "years": [
+                2012,
+                2027
+            ]
+        },
+        {
+            "model": "B-KING",
+            "years": [
+                2008,
+                2027
+            ]
+        },
+        {
+            "model": "BANDIT",
+            "years": [
+                2007,
+                2027
+            ]
+        },
+        {
+            "model": "BEST",
+            "years": [
+                2004,
+                2027
+            ]
+        },
+        {
+            "model": "BOULEVARD",
+            "years": [
+                2007,
+                2027
+            ]
+        },
+        {
+            "model": "BURGMAN",
+            "years": [
+                2004,
+                2027
+            ]
+        },
+        {
+            "model": "DL",
+            "years": [
+                2002,
+                2027
+            ]
+        },
+        {
+            "model": "DR",
+            "years": [
+                1993,
+                2027
+            ]
+        },
+        {
+            "model": "DRX",
+            "years": [
+                2015,
+                2027
+            ]
+        },
+        {
+            "model": "DRZ",
+            "years": [
+                2001,
+                2027
+            ]
+        },
+        {
+            "model": "DS",
+            "years": [
+                2000,
+                2027
+            ]
+        },
+        {
+            "model": "EN",
+            "years": [
+                2001,
+                2027
+            ]
+        },
+        {
+            "model": "FR",
+            "years": [
+                1988,
+                2027
+            ]
+        },
+        {
+            "model": "FZ",
+            "years": [
+                1986,
+                2027
+            ]
+        },
+        {
+            "model": "GIXXER",
+            "years": [
+                2016,
+                2027
+            ]
+        },
+        {
+            "model": "GIXXER D",
+            "years": [
+                2021,
+                2027
+            ]
+        },
+        {
+            "model": "GIXXER FI",
+            "years": [
+                2022,
+                2027
+            ]
+        },
+        {
+            "model": "GIXXER SF",
+            "years": [
+                2016,
+                2027
+            ]
+        },
+        {
+            "model": "GIXXER SF FI",
+            "years": [
+                2018,
+                2027
+            ]
+        },
+        {
+            "model": "GN",
+            "years": [
+                1999,
+                2027
+            ]
+        },
+        {
+            "model": "GP",
+            "years": [
+                1996,
+                2027
+            ]
+        },
+        {
+            "model": "GS",
+            "years": [
+                1994,
+                2027
+            ]
+        },
+        {
+            "model": "GSR",
+            "years": [
+                2006,
+                2027
+            ]
+        },
+        {
+            "model": "GSX",
+            "years": [
+                1990,
+                2027
+            ]
+        },
+        {
+            "model": "GZ",
+            "years": [
+                2014,
+                2027
+            ]
+        },
+        {
+            "model": "HAYATE",
+            "years": [
+                2015,
+                2027
+            ]
+        },
+        {
+            "model": "INAZUMA",
+            "years": [
+                2013,
+                2027
+            ]
+        },
+        {
+            "model": "INTRUDER",
+            "years": [
+                1991,
+                2027
+            ]
+        },
+        {
+            "model": "JR",
+            "years": [
+                2002,
+                2027
+            ]
+        },
+        {
+            "model": "LETS",
+            "years": [
+                2015,
+                2027
+            ]
+        },
+        {
+            "model": "MARAUDER",
+            "years": [
+                1999,
+                2027
+            ]
+        },
+        {
+            "model": "MAX",
+            "years": [
+                1997,
+                2027
+            ]
+        },
+        {
+            "model": "RMX",
+            "years": [
+                2012,
+                2027
+            ]
+        },
+        {
+            "model": "SFV",
+            "years": [
+                2010,
+                2027
+            ]
+        },
+        {
+            "model": "STEP",
+            "years": [
+                2007,
+                2027
+            ]
+        },
+        {
+            "model": "SV",
+            "years": [
+                2003,
+                2027
+            ]
+        },
+        {
+            "model": "TR",
+            "years": [
+                1988,
+                2027
+            ]
+        },
+        {
+            "model": "TS",
+            "years": [
+                1982,
+                2027
+            ]
+        },
+        {
+            "model": "V-STROM",
+            "years": [
+                2023,
+                2027
+            ]
+        },
+        {
+            "model": "VIVA",
+            "years": [
+                2002,
+                2027
+            ]
+        },
+        {
+            "model": "VIVA R",
+            "years": [
+                2012,
+                2027
+            ]
+        },
+        {
+            "model": "VIVAX",
+            "years": [
+                2000,
+                2027
+            ]
+        },
+        {
+            "model": "VOLTY",
+            "years": [
+                1999,
+                2027
+            ]
+        },
+        {
+            "model": "VOLUSIA",
+            "years": [
+                2002,
+                2027
+            ]
+        },
+        {
+            "model": "XF",
+            "years": [
+                1995,
+                2027
+            ]
+        }
+    ],
+    "SYM": [
+        {
+            "model": "ADX",
+            "years": [
+                2025,
+                2027
+            ]
+        },
+        {
+            "model": "ANGEL",
+            "years": [
+                2023,
+                2027
+            ]
+        },
+        {
+            "model": "BONUS SR",
+            "years": [
+                2020,
+                2027
+            ]
+        },
+        {
+            "model": "CITYCOM",
+            "years": [
+                2014,
+                2027
+            ]
+        },
+        {
+            "model": "CROX",
+            "years": [
+                2015,
+                2027
+            ]
+        },
+        {
+            "model": "CRUISYM",
+            "years": [
+                2019,
+                2027
+            ]
+        },
+        {
+            "model": "ELEGANT",
+            "years": [
+                2018,
+                2027
+            ]
+        },
+        {
+            "model": "FIDDLE",
+            "years": [
+                2015,
+                2027
+            ]
+        },
+        {
+            "model": "JET 14",
+            "years": [
+                2020,
+                2027
+            ]
+        },
+        {
+            "model": "JOYMAX",
+            "years": [
+                2015,
+                2027
+            ]
+        },
+        {
+            "model": "JOYRIDE",
+            "years": [
+                2025,
+                2027
+            ]
+        },
+        {
+            "model": "MAGIC",
+            "years": [
+                2009,
+                2027
+            ]
+        },
+        {
+            "model": "MAXSYM",
+            "years": [
+                2014,
+                2027
+            ]
+        },
+        {
+            "model": "NH T",
+            "years": [
+                2025,
+                2027
+            ]
+        },
+        {
+            "model": "NH TRAZER",
+            "years": [
+                2022,
+                2027
+            ]
+        },
+        {
+            "model": "NHO 125",
+            "years": [
+                2020,
+                2027
+            ]
+        },
+        {
+            "model": "NHX",
+            "years": [
+                2023,
+                2027
+            ]
+        },
+        {
+            "model": "NHX 170",
+            "years": [
+                2020,
+                2027
+            ]
+        },
+        {
+            "model": "NHX 190",
+            "years": [
+                2020,
+                2027
+            ]
+        },
+        {
+            "model": "ORBIT",
+            "years": [
+                2018,
+                2027
+            ]
+        },
+        {
+            "model": "SYMPHONY",
+            "years": [
+                2015,
+                2027
+            ]
+        },
+        {
+            "model": "WOLF/T2",
+            "years": [
+                2015,
+                2027
+            ]
+        }
+    ],
+    "TALARIA": [
+        {
+            "model": "MX4",
+            "years": [
+                2024,
+                2027
+            ]
+        },
+        {
+            "model": "STING",
+            "years": [
+                2022,
+                2027
+            ]
+        },
+        {
+            "model": "XXX",
+            "years": [
+                2024,
+                2027
+            ]
+        }
+    ],
+    "TEMPEST": [
+        {
+            "model": "TE",
+            "years": [
+                2008,
+                2027
+            ]
+        }
+    ],
+    "TITANIA": [
+        {
+            "model": "AGILE",
+            "years": [
+                2005,
+                2027
+            ]
+        },
+        {
+            "model": "FESTA",
+            "years": [
+                2005,
+                2027
+            ]
+        },
+        {
+            "model": "JUVENTU",
+            "years": [
+                2005,
+                2027
+            ]
+        },
+        {
+            "model": "MILANO",
+            "years": [
+                2005,
+                2027
+            ]
+        },
+        {
+            "model": "NAPOLI",
+            "years": [
+                2007,
+                2027
+            ]
+        },
+        {
+            "model": "ROMA",
+            "years": [
+                2007,
+                2027
+            ]
+        },
+        {
+            "model": "SPORTIVA",
+            "years": [
+                2006,
+                2027
+            ]
+        },
+        {
+            "model": "SPORTIVA V",
+            "years": [
+                2011,
+                2027
+            ]
+        },
+        {
+            "model": "T-REX",
+            "years": [
+                2006,
+                2027
+            ]
+        },
+        {
+            "model": "TOSCANA",
+            "years": [
+                2005,
+                2027
+            ]
+        },
+        {
+            "model": "TOSCANA V",
+            "years": [
+                2011,
+                2027
+            ]
+        },
+        {
+            "model": "TUONO",
+            "years": [
+                2005,
+                2027
+            ]
+        },
+        {
+            "model": "VORTICE",
+            "years": [
+                2005,
+                2027
+            ]
+        }
+    ],
+    "TONGKO": [
+        {
+            "model": "TK",
+            "years": [
+                2006,
+                2027
+            ]
+        }
+    ],
+    "TRIUMPH": [
+        {
+            "model": "BONNEVILLE",
+            "years": [
+                2011,
+                2027
+            ]
+        },
+        {
+            "model": "DAYTONA",
+            "years": [
+                2011,
+                2027
+            ]
+        },
+        {
+            "model": "ROCKET III",
+            "years": [
+                2011,
+                2027
+            ]
+        },
+        {
+            "model": "SCRAMBLER",
+            "years": [
+                2008,
+                2027
+            ]
+        },
+        {
+            "model": "SPEED",
+            "years": [
+                2011,
+                2027
+            ]
+        },
+        {
+            "model": "SPEEDMASTER",
+            "years": [
+                2011,
+                2027
+            ]
+        },
+        {
+            "model": "STREET",
+            "years": [
+                2010,
+                2027
+            ]
+        },
+        {
+            "model": "THRUXTON",
+            "years": [
+                2011,
+                2027
+            ]
+        },
+        {
+            "model": "THUNDERBIRD",
+            "years": [
+                2011,
+                2027
+            ]
+        },
+        {
+            "model": "TIGER",
+            "years": [
+                2011,
+                2027
+            ]
+        },
+        {
+            "model": "TRIDENT",
+            "years": [
+                2022,
+                2027
+            ]
+        }
+    ],
+    "TVS": [
+        {
+            "model": "APACHE",
+            "years": [
+                2007,
+                2027
+            ]
+        },
+        {
+            "model": "DAZZ",
+            "years": [
+                2023,
+                2027
+            ]
+        },
+        {
+            "model": "FLAME",
+            "years": [
+                2009,
+                2027
+            ]
+        },
+        {
+            "model": "IQUBE",
+            "years": [
+                2026,
+                2027
+            ]
+        },
+        {
+            "model": "MAX",
+            "years": [
+                2022,
+                2027
+            ]
+        },
+        {
+            "model": "NEO NX",
+            "years": [
+                2022,
+                2027
+            ]
+        },
+        {
+            "model": "NTORQ",
+            "years": [
+                2022,
+                2027
+            ]
+        },
+        {
+            "model": "RAIDER",
+            "years": [
+                2023,
+                2027
+            ]
+        },
+        {
+            "model": "ROCKZ",
+            "years": [
+                2015,
+                2027
+            ]
+        },
+        {
+            "model": "RONIN",
+            "years": [
+                2025,
+                2027
+            ]
+        },
+        {
+            "model": "SPORT",
+            "years": [
+                2022,
+                2027
+            ]
+        },
+        {
+            "model": "STAR",
+            "years": [
+                2008,
+                2027
+            ]
+        },
+        {
+            "model": "STRYKER",
+            "years": [
+                2017,
+                2027
+            ]
+        }
+    ],
+    "TX MOTORS": [
+        {
+            "model": "TX JERSEY",
+            "years": [
+                2007,
+                2027
+            ]
+        }
+    ],
+    "UKM": [
+        {
+            "model": "EVOLUTION",
+            "years": [
+                2008,
+                2027
+            ]
+        },
+        {
+            "model": "UDM",
+            "years": [
+                2007,
+                2027
+            ]
+        }
+    ],
+    "UNITED MOTORS": [
+        {
+            "model": "ARROW",
+            "years": [
+                2009,
+                2027
+            ]
+        },
+        {
+            "model": "COMMET",
+            "years": [
+                2006,
+                2027
+            ]
+        },
+        {
+            "model": "CRUISE",
+            "years": [
+                2006,
+                2027
+            ]
+        },
+        {
+            "model": "DSF",
+            "years": [
+                2005,
+                2027
+            ]
+        },
+        {
+            "model": "DSR",
+            "years": [
+                2011,
+                2027
+            ]
+        },
+        {
+            "model": "DSR II",
+            "years": [
+                2015,
+                2027
+            ]
+        },
+        {
+            "model": "DTF",
+            "years": [
+                2010,
+                2027
+            ]
+        },
+        {
+            "model": "FAST WIND",
+            "years": [
+                2007,
+                2027
+            ]
+        },
+        {
+            "model": "FORZA",
+            "years": [
+                2005,
+                2027
+            ]
+        },
+        {
+            "model": "GP1",
+            "years": [
+                2005,
+                2027
+            ]
+        },
+        {
+            "model": "HYPERSPORT",
+            "years": [
+                2015,
+                2027
+            ]
+        },
+        {
+            "model": "MAGNETIC",
+            "years": [
+                2006,
+                2027
+            ]
+        },
+        {
+            "model": "MATRIX II",
+            "years": [
+                2005,
+                2027
+            ]
+        },
+        {
+            "model": "MAX",
+            "years": [
+                2010,
+                2027
+            ]
+        },
+        {
+            "model": "NITROX",
+            "years": [
+                2010,
+                2027
+            ]
+        },
+        {
+            "model": "POWERMAX",
+            "years": [
+                2004,
+                2027
+            ]
+        },
+        {
+            "model": "RENEGADE",
+            "years": [
+                2005,
+                2027
+            ]
+        },
+        {
+            "model": "REV",
+            "years": [
+                2010,
+                2027
+            ]
+        },
+        {
+            "model": "SMF",
+            "years": [
+                2007,
+                2027
+            ]
+        },
+        {
+            "model": "V2C",
+            "years": [
+                2007,
+                2027
+            ]
+        },
+        {
+            "model": "V2S",
+            "years": [
+                2006,
+                2027
+            ]
+        },
+        {
+            "model": "VENUS",
+            "years": [
+                2005,
+                2027
+            ]
+        },
+        {
+            "model": "VERTIX",
+            "years": [
+                2006,
+                2027
+            ]
+        },
+        {
+            "model": "XPEED",
+            "years": [
+                2006,
+                2027
+            ]
+        },
+        {
+            "model": "XTREET",
+            "years": [
+                2009,
+                2027
+            ]
+        },
+        {
+            "model": "XTREET II",
+            "years": [
+                2012,
+                2027
+            ]
+        }
+    ],
+    "USW MOTORS": [
+        {
+            "model": "ENDURO",
+            "years": [
+                2006,
+                2027
+            ]
+        },
+        {
+            "model": "GACELA",
+            "years": [
+                2006,
+                2027
+            ]
+        },
+        {
+            "model": "GUEPARDO",
+            "years": [
+                2006,
+                2027
+            ]
+        },
+        {
+            "model": "LINCE",
+            "years": [
+                2006,
+                2027
+            ]
+        },
+        {
+            "model": "RYNO",
+            "years": [
+                2006,
+                2027
+            ]
+        },
+        {
+            "model": "SPORT EAGLE",
+            "years": [
+                2006,
+                2027
+            ]
+        }
+    ],
+    "VENTO": [
+        {
+            "model": "ALPINA",
+            "years": [
+                2025,
+                2027
+            ]
+        },
+        {
+            "model": "CROSSMAX",
+            "years": [
+                2025,
+                2027
+            ]
+        },
+        {
+            "model": "FALKON",
+            "years": [
+                2025,
+                2027
+            ]
+        },
+        {
+            "model": "GTS",
+            "years": [
+                2026,
+                2027
+            ]
+        },
+        {
+            "model": "LITHIUM",
+            "years": [
+                2025,
+                2027
+            ]
+        },
+        {
+            "model": "PHANTOM",
+            "years": [
+                2006,
+                2027
+            ]
+        },
+        {
+            "model": "PRESLEY",
+            "years": [
+                2025,
+                2027
+            ]
+        },
+        {
+            "model": "RAPID",
+            "years": [
+                2025,
+                2027
+            ]
+        },
+        {
+            "model": "REBELLIAN",
+            "years": [
+                2006,
+                2027
+            ]
+        },
+        {
+            "model": "SCREAMER",
+            "years": [
+                2025,
+                2027
+            ]
+        },
+        {
+            "model": "SPIRIT",
+            "years": [
+                2025,
+                2027
+            ]
+        },
+        {
+            "model": "V THUNDER",
+            "years": [
+                2006,
+                2027
+            ]
+        }
+    ],
+    "VERUCCI": [
+        {
+            "model": "ENDURO",
+            "years": [
+                2007,
+                2027
+            ]
+        },
+        {
+            "model": "VC 150",
+            "years": [
+                2007,
+                2027
+            ]
+        }
+    ],
+    "VESPA": [
+        {
+            "model": "946",
+            "years": [
+                2015,
+                2027
+            ]
+        },
+        {
+            "model": "GTS",
+            "years": [
+                2009,
+                2027
+            ]
+        },
+        {
+            "model": "GTS SUPER",
+            "years": [
+                2022,
+                2027
+            ]
+        },
+        {
+            "model": "GTV",
+            "years": [
+                2009,
+                2027
+            ]
+        },
+        {
+            "model": "LX",
+            "years": [
+                2009,
+                2027
+            ]
+        },
+        {
+            "model": "LXV",
+            "years": [
+                2009,
+                2027
+            ]
+        },
+        {
+            "model": "PRIMAVERA",
+            "years": [
+                2015,
+                2027
+            ]
+        },
+        {
+            "model": "SEI GIORNI",
+            "years": [
+                2021,
+                2027
+            ]
+        },
+        {
+            "model": "SPRINT",
+            "years": [
+                2016,
+                2027
+            ]
+        },
+        {
+            "model": "SXL",
+            "years": [
+                2021,
+                2027
+            ]
+        },
+        {
+            "model": "VXL",
+            "years": [
+                2016,
+                2027
+            ]
+        }
+    ],
+    "VICTORY": [
+        {
+            "model": "ADVANCE",
+            "years": [
+                2016,
+                2027
+            ]
+        },
+        {
+            "model": "ADVANCE R",
+            "years": [
+                2019,
+                2027
+            ]
+        },
+        {
+            "model": "BET",
+            "years": [
+                2026,
+                2027
+            ]
+        },
+        {
+            "model": "BLACK",
+            "years": [
+                2021,
+                2027
+            ]
+        },
+        {
+            "model": "BOLD",
+            "years": [
+                2022,
+                2027
+            ]
+        },
+        {
+            "model": "BOMBER",
+            "years": [
+                2021,
+                2027
+            ]
+        },
+        {
+            "model": "COMBAT",
+            "years": [
+                2024,
+                2027
+            ]
+        },
+        {
+            "model": "FLOW",
+            "years": [
+                2020,
+                2027
+            ]
+        },
+        {
+            "model": "HUNTER",
+            "years": [
+                2023,
+                2027
+            ]
+        },
+        {
+            "model": "LIFE",
+            "years": [
+                2021,
+                2027
+            ]
+        },
+        {
+            "model": "MRX",
+            "years": [
+                2015,
+                2027
+            ]
+        },
+        {
+            "model": "NITRO",
+            "years": [
+                2021,
+                2027
+            ]
+        },
+        {
+            "model": "ONE",
+            "years": [
+                2018,
+                2027
+            ]
+        },
+        {
+            "model": "ONE ST",
+            "years": [
+                2021,
+                2027
+            ]
+        },
+        {
+            "model": "SHOCK",
+            "years": [
+                2022,
+                2027
+            ]
+        },
+        {
+            "model": "SWITCH",
+            "years": [
+                2021,
+                2027
+            ]
+        },
+        {
+            "model": "VENOM",
+            "years": [
+                2022,
+                2027
+            ]
+        },
+        {
+            "model": "X1",
+            "years": [
+                2026,
+                2027
+            ]
+        },
+        {
+            "model": "ZONTES",
+            "years": [
+                2023,
+                2027
+            ]
+        },
+        {
+            "model": "ZS",
+            "years": [
+                2020,
+                2027
+            ]
+        }
+    ],
+    "VOGEPRO": [
+        {
+            "model": "300",
+            "years": [
+                2023,
+                2027
+            ]
+        }
+    ],
+    "VOLTA": [
+        {
+            "model": "BCN SPORT",
+            "years": [
+                2018,
+                2027
+            ]
+        }
+    ],
+    "W MOTORCYCLES": [
+        {
+            "model": "APOLO",
+            "years": [
+                2023,
+                2027
+            ]
+        },
+        {
+            "model": "ARES",
+            "years": [
+                2023,
+                2027
+            ]
+        },
+        {
+            "model": "GAIA",
+            "years": [
+                2023,
+                2027
+            ]
+        },
+        {
+            "model": "ZEUS",
+            "years": [
+                2023,
+                2027
+            ]
+        }
+    ],
+    "WANXIN": [
+        {
+            "model": "WX",
+            "years": [
+                2007,
+                2027
+            ]
+        }
+    ],
+    "WCR": [
+        {
+            "model": "CR",
+            "years": [
+                2007,
+                2027
+            ]
+        }
+    ],
+    "WOLF": [
+        {
+            "model": "HUSKY",
+            "years": [
+                2022,
+                2027
+            ]
+        }
+    ],
+    "XINGYUE": [
+        {
+            "model": "XY",
+            "years": [
+                2006,
+                2027
+            ]
+        }
+    ],
+    "YAKIMA": [
+        {
+            "model": "DXB",
+            "years": [
+                2007,
+                2027
+            ]
+        },
+        {
+            "model": "FREEWAY",
+            "years": [
+                2008,
+                2027
+            ]
+        },
+        {
+            "model": "FROGGY",
+            "years": [
+                2008,
+                2027
+            ]
+        },
+        {
+            "model": "HUSKY",
+            "years": [
+                2008,
+                2027
+            ]
+        },
+        {
+            "model": "LINX",
+            "years": [
+                2007,
+                2027
+            ]
+        },
+        {
+            "model": "RIDEX",
+            "years": [
+                2008,
+                2027
+            ]
+        },
+        {
+            "model": "RR2",
+            "years": [
+                2009,
+                2027
+            ]
+        }
+    ],
+    "YAMAHA": [
+        {
+            "model": "AEROX",
+            "years": [
+                2024,
+                2027
+            ]
+        },
+        {
+            "model": "AXIS",
+            "years": [
+                1992,
+                2027
+            ]
+        },
+        {
+            "model": "BWS",
+            "years": [
+                1999,
+                2027
+            ]
+        },
+        {
+            "model": "CRUX",
+            "years": [
+                2006,
+                2027
+            ]
+        },
+        {
+            "model": "CRYPTON",
+            "years": [
+                1998,
+                2027
+            ]
+        },
+        {
+            "model": "CYGNUS",
+            "years": [
+                2005,
+                2027
+            ]
+        },
+        {
+            "model": "DRAGSTAR",
+            "years": [
+                2003,
+                2027
+            ]
+        },
+        {
+            "model": "DT",
+            "years": [
+                1974,
+                2027
+            ]
+        },
+        {
+            "model": "FAZER",
+            "years": [
+                2012,
+                2027
+            ]
+        },
+        {
+            "model": "FINO",
+            "years": [
+                2013,
+                2027
+            ]
+        },
+        {
+            "model": "FRESH",
+            "years": [
+                2003,
+                2027
+            ]
+        },
+        {
+            "model": "FS",
+            "years": [
+                1991,
+                2027
+            ]
+        },
+        {
+            "model": "FZ",
+            "years": [
+                2023,
+                2027
+            ]
+        },
+        {
+            "model": "FZ-S",
+            "years": [
+                2016,
+                2027
+            ]
+        },
+        {
+            "model": "FZ1-N",
+            "years": [
+                2006,
+                2027
+            ]
+        },
+        {
+            "model": "FZ1-S",
+            "years": [
+                2005,
+                2027
+            ]
+        },
+        {
+            "model": "FZ16",
+            "years": [
+                2009,
+                2027
+            ]
+        },
+        {
+            "model": "FZ25",
+            "years": [
+                2018,
+                2027
+            ]
+        },
+        {
+            "model": "FZ6 N",
+            "years": [
+                2005,
+                2027
+            ]
+        },
+        {
+            "model": "FZ6-S",
+            "years": [
+                2004,
+                2027
+            ]
+        },
+        {
+            "model": "FZ6R",
+            "years": [
+                2009,
+                2027
+            ]
+        },
+        {
+            "model": "FZ8",
+            "years": [
+                2011,
+                2027
+            ]
+        },
+        {
+            "model": "FZ8S",
+            "years": [
+                2011,
+                2027
+            ]
+        },
+        {
+            "model": "FZR",
+            "years": [
+                1989,
+                2027
+            ]
+        },
+        {
+            "model": "JOG",
+            "years": [
+                1994,
+                2027
+            ]
+        },
+        {
+            "model": "JUPITER",
+            "years": [
+                2006,
+                2027
+            ]
+        },
+        {
+            "model": "LB",
+            "years": [
+                1990,
+                2027
+            ]
+        },
+        {
+            "model": "LIBERO",
+            "years": [
+                2002,
+                2027
+            ]
+        },
+        {
+            "model": "MAJESTY",
+            "years": [
+                2005,
+                2027
+            ]
+        },
+        {
+            "model": "MIO",
+            "years": [
+                2006,
+                2027
+            ]
+        },
+        {
+            "model": "MJ50",
+            "years": [
+                1988,
+                2027
+            ]
+        },
+        {
+            "model": "MT",
+            "years": [
+                2006,
+                2027
+            ]
+        },
+        {
+            "model": "NEXT",
+            "years": [
+                2005,
+                2027
+            ]
+        },
+        {
+            "model": "NIKEN",
+            "years": [
+                2020,
+                2027
+            ]
+        },
+        {
+            "model": "NMAX",
+            "years": [
+                2015,
+                2027
+            ]
+        },
+        {
+            "model": "NOUVO",
+            "years": [
+                2003,
+                2027
+            ]
+        },
+        {
+            "model": "PW",
+            "years": [
+                1992,
+                2027
+            ]
+        },
+        {
+            "model": "RAIDER S",
+            "years": [
+                2009,
+                2027
+            ]
+        },
+        {
+            "model": "RAPTOR",
+            "years": [
+                2004,
+                2027
+            ]
+        },
+        {
+            "model": "RD",
+            "years": [
+                1992,
+                2027
+            ]
+        },
+        {
+            "model": "ROYAL STAR",
+            "years": [
+                2001,
+                2027
+            ]
+        },
+        {
+            "model": "RX",
+            "years": [
+                1981,
+                2027
+            ]
+        },
+        {
+            "model": "RXK",
+            "years": [
+                2006,
+                2027
+            ]
+        },
+        {
+            "model": "RXS",
+            "years": [
+                1998,
+                2027
+            ]
+        },
+        {
+            "model": "SCORPIO-Z",
+            "years": [
+                2005,
+                2027
+            ]
+        },
+        {
+            "model": "SCR",
+            "years": [
+                2017,
+                2027
+            ]
+        },
+        {
+            "model": "SIGMA",
+            "years": [
+                2003,
+                2027
+            ]
+        },
+        {
+            "model": "SPARK",
+            "years": [
+                2003,
+                2027
+            ]
+        },
+        {
+            "model": "SR",
+            "years": [
+                1996,
+                2027
+            ]
+        },
+        {
+            "model": "STRYKER",
+            "years": [
+                2013,
+                2027
+            ]
+        },
+        {
+            "model": "SZ",
+            "years": [
+                2013,
+                2027
+            ]
+        },
+        {
+            "model": "TDM",
+            "years": [
+                1999,
+                2027
+            ]
+        },
+        {
+            "model": "TENERE",
+            "years": [
+                2022,
+                2027
+            ]
+        },
+        {
+            "model": "TMAX",
+            "years": [
+                2023,
+                2027
+            ]
+        },
+        {
+            "model": "TRACER 9",
+            "years": [
+                2021,
+                2027
+            ]
+        },
+        {
+            "model": "TRICITY",
+            "years": [
+                2015,
+                2027
+            ]
+        },
+        {
+            "model": "TTR",
+            "years": [
+                2011,
+                2027
+            ]
+        },
+        {
+            "model": "TZR",
+            "years": [
+                2001,
+                2027
+            ]
+        },
+        {
+            "model": "V MAX",
+            "years": [
+                1990,
+                2027
+            ]
+        },
+        {
+            "model": "V STAR",
+            "years": [
+                1998,
+                2027
+            ]
+        },
+        {
+            "model": "VEGA",
+            "years": [
+                1999,
+                2027
+            ]
+        },
+        {
+            "model": "VIRAGO",
+            "years": [
+                1991,
+                2027
+            ]
+        },
+        {
+            "model": "VR",
+            "years": [
+                1998,
+                2027
+            ]
+        },
+        {
+            "model": "WARRIOR",
+            "years": [
+                2008,
+                2027
+            ]
+        },
+        {
+            "model": "WR",
+            "years": [
+                1998,
+                2027
+            ]
+        },
+        {
+            "model": "XJ6",
+            "years": [
+                2010,
+                2027
+            ]
+        },
+        {
+            "model": "XMAX",
+            "years": [
+                2019,
+                2027
+            ]
+        },
+        {
+            "model": "XSR",
+            "years": [
+                2016,
+                2027
+            ]
+        },
+        {
+            "model": "XT",
+            "years": [
+                1981,
+                2027
+            ]
+        },
+        {
+            "model": "XTZ",
+            "years": [
+                2004,
+                2027
+            ]
+        },
+        {
+            "model": "XV ROAD STAR",
+            "years": [
+                2006,
+                2027
+            ]
+        },
+        {
+            "model": "XVS",
+            "years": [
+                2013,
+                2027
+            ]
+        },
+        {
+            "model": "YB",
+            "years": [
+                1995,
+                2027
+            ]
+        },
+        {
+            "model": "YBR",
+            "years": [
+                2001,
+                2027
+            ]
+        },
+        {
+            "model": "YBR-Z",
+            "years": [
+                2021,
+                2027
+            ]
+        },
+        {
+            "model": "YC-Z",
+            "years": [
+                2019,
+                2027
+            ]
+        },
+        {
+            "model": "YS",
+            "years": [
+                2002,
+                2027
+            ]
+        },
+        {
+            "model": "YZ",
+            "years": [
+                1997,
+                2027
+            ]
+        },
+        {
+            "model": "YZF",
+            "years": [
+                1999,
+                2027
+            ]
+        }
+    ],
+    "YGM": [
+        {
+            "model": "RS",
+            "years": [
+                2017,
+                2027
+            ]
+        }
+    ],
+    "ZERO": [
+        {
+            "model": "DSR",
+            "years": [
+                2019,
+                2027
+            ]
+        },
+        {
+            "model": "FX",
+            "years": [
+                2020,
+                2027
+            ]
+        },
+        {
+            "model": "FXS",
+            "years": [
+                2019,
+                2027
+            ]
+        },
+        {
+            "model": "SR",
+            "years": [
+                2022,
+                2027
+            ]
+        }
+    ],
+    "ZHONGNENG": [
+        {
+            "model": "ZN",
+            "years": [
+                2009,
+                2027
+            ]
+        }
+    ],
+    "ZONGSHEN": [
+        {
+            "model": "ZS",
+            "years": [
+                2006,
+                2027
+            ]
+        }
+    ],
+    "ZQ MOTORS": [
+        {
+            "model": "Z-Q",
+            "years": [
+                2007,
+                2027
+            ]
+        }
+    ]
+}
