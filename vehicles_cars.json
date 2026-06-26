@@ -328,6 +328,174 @@
                 2024,
                 2027
             ]
+        },
+        {
+            "model": "BEIJING BJ30",
+            "years": [
+                2015,
+                2024
+            ]
+        },
+        {
+            "model": "BEIJING BJ40",
+            "years": [
+                2013,
+                2023
+            ]
+        },
+        {
+            "model": "BEIJING BJ60",
+            "years": [
+                2022,
+                2027
+            ]
+        },
+        {
+            "model": "BEIJING BJ80",
+            "years": [
+                2016,
+                2016
+            ]
+        },
+        {
+            "model": "BEIJING EC3",
+            "years": [
+                2016,
+                2020
+            ]
+        },
+        {
+            "model": "BEIJING EX3",
+            "years": [
+                2018,
+                2022
+            ]
+        },
+        {
+            "model": "BEIJING MOFANG",
+            "years": [
+                2022,
+                2027
+            ]
+        },
+        {
+            "model": "BEIJING U5",
+            "years": [
+                2013,
+                2017
+            ]
+        },
+        {
+            "model": "BEIJING U7",
+            "years": [
+                2013,
+                2018
+            ]
+        },
+        {
+            "model": "BEIJING X3",
+            "years": [
+                2016,
+                2019
+            ]
+        },
+        {
+            "model": "BEIJING X6",
+            "years": [
+                2022,
+                2027
+            ]
+        },
+        {
+            "model": "BJ90",
+            "years": [
+                2016,
+                2023
+            ]
+        },
+        {
+            "model": "BJEV EC3",
+            "years": [
+                2016,
+                2020
+            ]
+        },
+        {
+            "model": "CHANGHE FREEDOM M70",
+            "years": [
+                2016,
+                2019
+            ]
+        },
+        {
+            "model": "HUANSU S2",
+            "years": [
+                2014,
+                2020
+            ]
+        },
+        {
+            "model": "HUANSU S3",
+            "years": [
+                2014,
+                2020
+            ]
+        },
+        {
+            "model": "HUANSU S5",
+            "years": [
+                2016,
+                2019
+            ]
+        },
+        {
+            "model": "HUANSU S6",
+            "years": [
+                2015,
+                2020
+            ]
+        },
+        {
+            "model": "HUANSU S7",
+            "years": [
+                2016,
+                2019
+            ]
+        },
+        {
+            "model": "WEIWANG 205",
+            "years": [
+                2012,
+                2012
+            ]
+        },
+        {
+            "model": "WEIWANG 306",
+            "years": [
+                2011,
+                2016
+            ]
+        },
+        {
+            "model": "WEIWANG 407 EV",
+            "years": [
+                2018,
+                2018
+            ]
+        },
+        {
+            "model": "WEIWANG M20",
+            "years": [
+                2013,
+                2017
+            ]
+        },
+        {
+            "model": "WEIWANG M50F",
+            "years": [
+                2016,
+                2018
+            ]
         }
     ],
     "BAJAJ": [
@@ -1452,6 +1620,356 @@
                 2024,
                 2027
             ]
+        },
+        {
+            "model": "8TT",
+            "years": [
+                2005,
+                2027
+            ]
+        },
+        {
+            "model": "ATTO 3",
+            "years": [
+                2022,
+                2027
+            ]
+        },
+        {
+            "model": "B SERIES",
+            "years": [
+                2020,
+                2020
+            ]
+        },
+        {
+            "model": "C9",
+            "years": [
+                2015,
+                2015
+            ]
+        },
+        {
+            "model": "DESTROYER 05",
+            "years": [
+                2022,
+                2027
+            ]
+        },
+        {
+            "model": "DOLPHIN",
+            "years": [
+                2021,
+                2027
+            ]
+        },
+        {
+            "model": "E-VALI",
+            "years": [
+                2025,
+                2027
+            ]
+        },
+        {
+            "model": "E7",
+            "years": [
+                2025,
+                2027
+            ]
+        },
+        {
+            "model": "F3DM",
+            "years": [
+                2008,
+                2013
+            ]
+        },
+        {
+            "model": "F6DM",
+            "years": [
+                2008,
+                2012
+            ]
+        },
+        {
+            "model": "FANGCHENGBAO BAO 5",
+            "years": [
+                2023,
+                2027
+            ]
+        },
+        {
+            "model": "FANGCHENGBAO BAO 8",
+            "years": [
+                2024,
+                2027
+            ]
+        },
+        {
+            "model": "FANGCHENGBAO TAI 3",
+            "years": [
+                2025,
+                2027
+            ]
+        },
+        {
+            "model": "FANGCHENGBAO TI7",
+            "years": [
+                2025,
+                2027
+            ]
+        },
+        {
+            "model": "FRIGATE 07",
+            "years": [
+                2022,
+                2025
+            ]
+        },
+        {
+            "model": "G3",
+            "years": [
+                2009,
+                2014
+            ]
+        },
+        {
+            "model": "G5",
+            "years": [
+                2014,
+                2017
+            ]
+        },
+        {
+            "model": "G6",
+            "years": [
+                2011,
+                2018
+            ]
+        },
+        {
+            "model": "K SERIES",
+            "years": [
+                2010,
+                2010
+            ]
+        },
+        {
+            "model": "K10MR",
+            "years": [
+                2015,
+                2016
+            ]
+        },
+        {
+            "model": "L3",
+            "years": [
+                2010,
+                2015
+            ]
+        },
+        {
+            "model": "M6",
+            "years": [
+                2010,
+                2017
+            ]
+        },
+        {
+            "model": "S6",
+            "years": [
+                2011,
+                2011
+            ]
+        },
+        {
+            "model": "S8",
+            "years": [
+                2009,
+                2010
+            ]
+        },
+        {
+            "model": "SEAL 05 DM-I",
+            "years": [
+                2025,
+                2027
+            ]
+        },
+        {
+            "model": "SEAL 06 DM-I",
+            "years": [
+                2024,
+                2027
+            ]
+        },
+        {
+            "model": "SEAL 06 EV",
+            "years": [
+                2025,
+                2027
+            ]
+        },
+        {
+            "model": "SEAL 06 GT",
+            "years": [
+                2024,
+                2027
+            ]
+        },
+        {
+            "model": "SEAL 07 DM-I",
+            "years": [
+                2023,
+                2027
+            ]
+        },
+        {
+            "model": "SEALION 05",
+            "years": [
+                2024,
+                2027
+            ]
+        },
+        {
+            "model": "SEALION 05 DM-I",
+            "years": [
+                2024,
+                2027
+            ]
+        },
+        {
+            "model": "SEALION 05 EV",
+            "years": [
+                2025,
+                2027
+            ]
+        },
+        {
+            "model": "SEALION 06",
+            "years": [
+                2025,
+                2027
+            ]
+        },
+        {
+            "model": "SEALION 07 DM",
+            "years": [
+                2025,
+                2027
+            ]
+        },
+        {
+            "model": "SEALION 07 EV",
+            "years": [
+                2024,
+                2027
+            ]
+        },
+        {
+            "model": "SEALION 7",
+            "years": [
+                2024,
+                2027
+            ]
+        },
+        {
+            "model": "SHARK",
+            "years": [
+                2024,
+                2027
+            ]
+        },
+        {
+            "model": "SONG",
+            "years": [
+                2015,
+                2015
+            ]
+        },
+        {
+            "model": "SONG L DM-I",
+            "years": [
+                2024,
+                2027
+            ]
+        },
+        {
+            "model": "SONG L EV",
+            "years": [
+                2023,
+                2027
+            ]
+        },
+        {
+            "model": "SONG MAX",
+            "years": [
+                2017,
+                2017
+            ]
+        },
+        {
+            "model": "SONG PLUS",
+            "years": [
+                2020,
+                2027
+            ]
+        },
+        {
+            "model": "SONG PRO",
+            "years": [
+                2019,
+                2027
+            ]
+        },
+        {
+            "model": "TANG",
+            "years": [
+                2015,
+                2025
+            ]
+        },
+        {
+            "model": "XIA",
+            "years": [
+                2025,
+                2027
+            ]
+        },
+        {
+            "model": "YANGWANG U7",
+            "years": [
+                2025,
+                2027
+            ]
+        },
+        {
+            "model": "YANGWANG U8",
+            "years": [
+                2023,
+                2027
+            ]
+        },
+        {
+            "model": "YANGWANG U9",
+            "years": [
+                2024,
+                2027
+            ]
+        },
+        {
+            "model": "YUAN",
+            "years": [
+                2016,
+                2016
+            ]
+        },
+        {
+            "model": "YUAN UP",
+            "years": [
+                2024,
+                2027
+            ]
         }
     ],
     "CADILLAC": [
@@ -1558,6 +2076,321 @@
                 2023,
                 2027
             ]
+        },
+        {
+            "model": "ALSVIN V3",
+            "years": [
+                2012,
+                2017
+            ]
+        },
+        {
+            "model": "BENBEN",
+            "years": [
+                2006,
+                2023
+            ]
+        },
+        {
+            "model": "CM7",
+            "years": [
+                2003,
+                2015
+            ]
+        },
+        {
+            "model": "CM8",
+            "years": [
+                2004,
+                2015
+            ]
+        },
+        {
+            "model": "CS15",
+            "years": [
+                2015,
+                2023
+            ]
+        },
+        {
+            "model": "CS35",
+            "years": [
+                2012,
+                2022
+            ]
+        },
+        {
+            "model": "CS35 PLUS",
+            "years": [
+                2018,
+                2018
+            ]
+        },
+        {
+            "model": "CS55",
+            "years": [
+                2017,
+                2021
+            ]
+        },
+        {
+            "model": "CS75",
+            "years": [
+                2013,
+                2024
+            ]
+        },
+        {
+            "model": "CS85",
+            "years": [
+                2019,
+                2025
+            ]
+        },
+        {
+            "model": "CS95",
+            "years": [
+                2017,
+                2025
+            ]
+        },
+        {
+            "model": "CX70",
+            "years": [
+                2016,
+                2021
+            ]
+        },
+        {
+            "model": "EADO",
+            "years": [
+                2012,
+                2023
+            ]
+        },
+        {
+            "model": "EADO DT",
+            "years": [
+                2014,
+                2018
+            ]
+        },
+        {
+            "model": "EULOVE",
+            "years": [
+                2013,
+                2015
+            ]
+        },
+        {
+            "model": "F70",
+            "years": [
+                2019,
+                2019
+            ]
+        },
+        {
+            "model": "KAICENE F30",
+            "years": [
+                2016,
+                2016
+            ]
+        },
+        {
+            "model": "KAICENE HONOR S",
+            "years": [
+                2011,
+                2011
+            ]
+        },
+        {
+            "model": "KAICENE RAESOR S50T",
+            "years": [
+                2018,
+                2019
+            ]
+        },
+        {
+            "model": "KAICENE V919",
+            "years": [
+                2025,
+                2027
+            ]
+        },
+        {
+            "model": "KUAYUE CHANA V5",
+            "years": [
+                2013,
+                2013
+            ]
+        },
+        {
+            "model": "LAMORE",
+            "years": [
+                2023,
+                2027
+            ]
+        },
+        {
+            "model": "LINMAX",
+            "years": [
+                2017,
+                2020
+            ]
+        },
+        {
+            "model": "NEVO A06",
+            "years": [
+                2025,
+                2027
+            ]
+        },
+        {
+            "model": "NEVO A07",
+            "years": [
+                2023,
+                2027
+            ]
+        },
+        {
+            "model": "NEVO E07",
+            "years": [
+                2024,
+                2027
+            ]
+        },
+        {
+            "model": "NEVO Q05",
+            "years": [
+                2023,
+                2025
+            ]
+        },
+        {
+            "model": "OSHAN CHANGXING",
+            "years": [
+                2015,
+                2022
+            ]
+        },
+        {
+            "model": "OSHAN COS1°",
+            "years": [
+                2018,
+                2021
+            ]
+        },
+        {
+            "model": "OSHAN COSMOS",
+            "years": [
+                2018,
+                2022
+            ]
+        },
+        {
+            "model": "OSHAN X70A",
+            "years": [
+                2017,
+                2022
+            ]
+        },
+        {
+            "model": "OUSHAN CHANGXING",
+            "years": [
+                2015,
+                2022
+            ]
+        },
+        {
+            "model": "RAETON",
+            "years": [
+                2012,
+                2019
+            ]
+        },
+        {
+            "model": "RAETON PLUS",
+            "years": [
+                2017,
+                2022
+            ]
+        },
+        {
+            "model": "RUIXING M80",
+            "years": [
+                2013,
+                2019
+            ]
+        },
+        {
+            "model": "RUIXING M90",
+            "years": [
+                2016,
+                2016
+            ]
+        },
+        {
+            "model": "RUIXING S50",
+            "years": [
+                2016,
+                2019
+            ]
+        },
+        {
+            "model": "STAR",
+            "years": [
+                1999,
+                2015
+            ]
+        },
+        {
+            "model": "STAR 9",
+            "years": [
+                2012,
+                2012
+            ]
+        },
+        {
+            "model": "STAR S460",
+            "years": [
+                2008,
+                2015
+            ]
+        },
+        {
+            "model": "TAURUSTAR",
+            "years": [
+                2010,
+                2015
+            ]
+        },
+        {
+            "model": "UNI-K",
+            "years": [
+                2020,
+                2020
+            ]
+        },
+        {
+            "model": "UNI-T",
+            "years": [
+                2020,
+                2020
+            ]
+        },
+        {
+            "model": "UNI-V",
+            "years": [
+                2021,
+                2021
+            ]
+        },
+        {
+            "model": "UNI-Z",
+            "years": [
+                2022,
+                2027
+            ]
         }
     ],
     "CHANGHE": [
@@ -1637,6 +2470,272 @@
             "model": "WUJIE",
             "years": [
                 2024,
+                2027
+            ]
+        },
+        {
+            "model": "A3",
+            "years": [
+                2008,
+                2015
+            ]
+        },
+        {
+            "model": "ARRIZO 3",
+            "years": [
+                2014,
+                2020
+            ]
+        },
+        {
+            "model": "ARRIZO 5",
+            "years": [
+                2016,
+                2016
+            ]
+        },
+        {
+            "model": "ARRIZO 5 PLUS",
+            "years": [
+                2018,
+                2018
+            ]
+        },
+        {
+            "model": "ARRIZO 7",
+            "years": [
+                2013,
+                2018
+            ]
+        },
+        {
+            "model": "ARRIZO 8",
+            "years": [
+                2022,
+                2027
+            ]
+        },
+        {
+            "model": "ARRIZO M7",
+            "years": [
+                2015,
+                2018
+            ]
+        },
+        {
+            "model": "E3",
+            "years": [
+                2013,
+                2015
+            ]
+        },
+        {
+            "model": "E5",
+            "years": [
+                2011,
+                2011
+            ]
+        },
+        {
+            "model": "EASTAR",
+            "years": [
+                2004,
+                2012
+            ]
+        },
+        {
+            "model": "EASTAR CROSS",
+            "years": [
+                2006,
+                2015
+            ]
+        },
+        {
+            "model": "EQ1",
+            "years": [
+                2017,
+                2017
+            ]
+        },
+        {
+            "model": "EQ5",
+            "years": [
+                2020,
+                2023
+            ]
+        },
+        {
+            "model": "EQ7",
+            "years": [
+                2023,
+                2027
+            ]
+        },
+        {
+            "model": "FENGYUN",
+            "years": [
+                1999,
+                2008
+            ]
+        },
+        {
+            "model": "FULWIN 2",
+            "years": [
+                2009,
+                2019
+            ]
+        },
+        {
+            "model": "FULWIN A9L",
+            "years": [
+                2025,
+                2027
+            ]
+        },
+        {
+            "model": "FULWIN T11",
+            "years": [
+                2025,
+                2027
+            ]
+        },
+        {
+            "model": "JETOUR X70L",
+            "years": [
+                2025,
+                2027
+            ]
+        },
+        {
+            "model": "KARRY K60",
+            "years": [
+                2016,
+                2025
+            ]
+        },
+        {
+            "model": "KARRY YOUYA",
+            "years": [
+                2007,
+                2012
+            ]
+        },
+        {
+            "model": "PRESIDENTIAL STATE CAR",
+            "years": [
+                2005,
+                2027
+            ]
+        },
+        {
+            "model": "QQ ICE CREAM",
+            "years": [
+                2021,
+                2021
+            ]
+        },
+        {
+            "model": "QQ3",
+            "years": [
+                2003,
+                2025
+            ]
+        },
+        {
+            "model": "QQ6",
+            "years": [
+                2006,
+                2010
+            ]
+        },
+        {
+            "model": "QQME",
+            "years": [
+                2009,
+                2011
+            ]
+        },
+        {
+            "model": "TANSUO 06",
+            "years": [
+                2023,
+                2027
+            ]
+        },
+        {
+            "model": "TIGGO 3",
+            "years": [
+                2005,
+                2023
+            ]
+        },
+        {
+            "model": "TIGGO 3X",
+            "years": [
+                2016,
+                2016
+            ]
+        },
+        {
+            "model": "TIGGO 5",
+            "years": [
+                2013,
+                2013
+            ]
+        },
+        {
+            "model": "TIGGO 5X",
+            "years": [
+                2017,
+                2017
+            ]
+        },
+        {
+            "model": "TIGGO 7",
+            "years": [
+                2016,
+                2025
+            ]
+        },
+        {
+            "model": "TIGGO 8",
+            "years": [
+                2017,
+                2024
+            ]
+        },
+        {
+            "model": "TIGGO 8L",
+            "years": [
+                2024,
+                2027
+            ]
+        },
+        {
+            "model": "TIGGO 9",
+            "years": [
+                2023,
+                2024
+            ]
+        },
+        {
+            "model": "TIGGO 9L",
+            "years": [
+                2025,
+                2027
+            ]
+        },
+        {
+            "model": "V5",
+            "years": [
+                2006,
+                2015
+            ]
+        },
+        {
+            "model": "WUJIE PRO",
+            "years": [
+                2022,
                 2027
             ]
         }
@@ -2564,6 +3663,41 @@
                 2024,
                 2027
             ]
+        },
+        {
+            "model": "A9",
+            "years": [
+                2016,
+                2019
+            ]
+        },
+        {
+            "model": "E-STAR",
+            "years": [
+                2005,
+                2027
+            ]
+        },
+        {
+            "model": "EQ2102",
+            "years": [
+                1990,
+                1990
+            ]
+        },
+        {
+            "model": "EΠ 007",
+            "years": [
+                2024,
+                2027
+            ]
+        },
+        {
+            "model": "EΠ 008",
+            "years": [
+                2024,
+                2027
+            ]
         }
     ],
     "DS": [
@@ -3017,6 +4151,167 @@
                 2025,
                 2027
             ]
+        },
+        {
+            "model": "EMPOW",
+            "years": [
+                2021,
+                2021
+            ]
+        },
+        {
+            "model": "ENVERGE",
+            "years": [
+                2018,
+                2018
+            ]
+        },
+        {
+            "model": "GA3S",
+            "years": [
+                2013,
+                2019
+            ]
+        },
+        {
+            "model": "GA4",
+            "years": [
+                2018,
+                2023
+            ]
+        },
+        {
+            "model": "GA5",
+            "years": [
+                2010,
+                2018
+            ]
+        },
+        {
+            "model": "GA6",
+            "years": [
+                2014,
+                2023
+            ]
+        },
+        {
+            "model": "GA8",
+            "years": [
+                2016,
+                2023
+            ]
+        },
+        {
+            "model": "GE3",
+            "years": [
+                2017,
+                2020
+            ]
+        },
+        {
+            "model": "GONOW WAY",
+            "years": [
+                2012,
+                2016
+            ]
+        },
+        {
+            "model": "GONOW XINGLANG",
+            "years": [
+                2013,
+                2016
+            ]
+        },
+        {
+            "model": "GS3",
+            "years": [
+                2017,
+                2023
+            ]
+        },
+        {
+            "model": "GS4",
+            "years": [
+                2015,
+                2024
+            ]
+        },
+        {
+            "model": "GS5",
+            "years": [
+                2011,
+                2021
+            ]
+        },
+        {
+            "model": "GS7",
+            "years": [
+                2017,
+                2021
+            ]
+        },
+        {
+            "model": "LEOPAARD COUPE",
+            "years": [
+                2020,
+                2020
+            ]
+        },
+        {
+            "model": "LEOPAARD CS10",
+            "years": [
+                2014,
+                2020
+            ]
+        },
+        {
+            "model": "LEOPAARD CS3",
+            "years": [
+                2019,
+                2020
+            ]
+        },
+        {
+            "model": "LEOPAARD CS7",
+            "years": [
+                2009,
+                2010
+            ]
+        },
+        {
+            "model": "LEOPAARD CS9",
+            "years": [
+                2017,
+                2020
+            ]
+        },
+        {
+            "model": "LEOPAARD CT7",
+            "years": [
+                2016,
+                2020
+            ]
+        },
+        {
+            "model": "LEOPAARD MATTU",
+            "years": [
+                2017,
+                2020
+            ]
+        },
+        {
+            "model": "M6",
+            "years": [
+                2018,
+                2018
+            ]
+        },
+        {
+            "model": "M8",
+            "years": [
+                2017,
+                2022
+            ]
         }
     ],
     "GBM MOTORS": [
@@ -3076,6 +4371,272 @@
             "years": [
                 2012,
                 2027
+            ]
+        },
+        {
+            "model": "BINRUI",
+            "years": [
+                2018,
+                2018
+            ]
+        },
+        {
+            "model": "BINYUE",
+            "years": [
+                2018,
+                2023
+            ]
+        },
+        {
+            "model": "BL",
+            "years": [
+                2003,
+                2006
+            ]
+        },
+        {
+            "model": "BORUI",
+            "years": [
+                2015,
+                2021
+            ]
+        },
+        {
+            "model": "BORUI GE",
+            "years": [
+                2018,
+                2021
+            ]
+        },
+        {
+            "model": "BOYUE",
+            "years": [
+                2016,
+                2024
+            ]
+        },
+        {
+            "model": "CD",
+            "years": [
+                2009,
+                2009
+            ]
+        },
+        {
+            "model": "EMGRAND L",
+            "years": [
+                2016,
+                2022
+            ]
+        },
+        {
+            "model": "EMGRAND S",
+            "years": [
+                2016,
+                2024
+            ]
+        },
+        {
+            "model": "GALAXY A7",
+            "years": [
+                2025,
+                2027
+            ]
+        },
+        {
+            "model": "GALAXY E8",
+            "years": [
+                2024,
+                2027
+            ]
+        },
+        {
+            "model": "GALAXY L6",
+            "years": [
+                2023,
+                2027
+            ]
+        },
+        {
+            "model": "GALAXY L7",
+            "years": [
+                2023,
+                2027
+            ]
+        },
+        {
+            "model": "GALAXY M9",
+            "years": [
+                2025,
+                2027
+            ]
+        },
+        {
+            "model": "GALAXY STARSHINE 6",
+            "years": [
+                2025,
+                2027
+            ]
+        },
+        {
+            "model": "GALAXY STARSHINE 8",
+            "years": [
+                2025,
+                2027
+            ]
+        },
+        {
+            "model": "GALAXY STARSHIP 7",
+            "years": [
+                2024,
+                2027
+            ]
+        },
+        {
+            "model": "GEOMETRY A",
+            "years": [
+                2019,
+                2019
+            ]
+        },
+        {
+            "model": "GEOMETRY C",
+            "years": [
+                2020,
+                2020
+            ]
+        },
+        {
+            "model": "GEOMETRY E",
+            "years": [
+                2022,
+                2027
+            ]
+        },
+        {
+            "model": "GLEAGLE GC7",
+            "years": [
+                2006,
+                2021
+            ]
+        },
+        {
+            "model": "GLEAGLE GS-CC",
+            "years": [
+                2011,
+                2011
+            ]
+        },
+        {
+            "model": "GX9",
+            "years": [
+                2014,
+                2017
+            ]
+        },
+        {
+            "model": "HAOYUE",
+            "years": [
+                2020,
+                2023
+            ]
+        },
+        {
+            "model": "HQ",
+            "years": [
+                1998,
+                1998
+            ]
+        },
+        {
+            "model": "ICON",
+            "years": [
+                2020,
+                2020
+            ]
+        },
+        {
+            "model": "JIAJI",
+            "years": [
+                2019,
+                2019
+            ]
+        },
+        {
+            "model": "MR",
+            "years": [
+                2003,
+                2006
+            ]
+        },
+        {
+            "model": "PU",
+            "years": [
+                2001,
+                2001
+            ]
+        },
+        {
+            "model": "TOBE M'CAR",
+            "years": [
+                2008,
+                2016
+            ]
+        },
+        {
+            "model": "XINGRUI",
+            "years": [
+                2020,
+                2020
+            ]
+        },
+        {
+            "model": "XINGYUE L",
+            "years": [
+                2021,
+                2021
+            ]
+        },
+        {
+            "model": "XINGYUE S",
+            "years": [
+                2019,
+                2019
+            ]
+        },
+        {
+            "model": "YUANJING",
+            "years": [
+                2006,
+                2021
+            ]
+        },
+        {
+            "model": "YUANJING S1",
+            "years": [
+                2017,
+                2019
+            ]
+        },
+        {
+            "model": "YUANJING X1",
+            "years": [
+                2017,
+                2021
+            ]
+        },
+        {
+            "model": "YUANJING X3",
+            "years": [
+                2017,
+                2017
+            ]
+        },
+        {
+            "model": "YUANJING X6",
+            "years": [
+                2012,
+                2024
             ]
         }
     ],
@@ -3145,6 +4706,132 @@
             "years": [
                 2012,
                 2027
+            ]
+        },
+        {
+            "model": "COOLBEAR",
+            "years": [
+                2009,
+                2015
+            ]
+        },
+        {
+            "model": "COWRY",
+            "years": [
+                2007,
+                2007
+            ]
+        },
+        {
+            "model": "DEER",
+            "years": [
+                1996,
+                2013
+            ]
+        },
+        {
+            "model": "KING KONG CANNON",
+            "years": [
+                2021,
+                2021
+            ]
+        },
+        {
+            "model": "MECHA DRAGON",
+            "years": [
+                2022,
+                2024
+            ]
+        },
+        {
+            "model": "PAO",
+            "years": [
+                2019,
+                2019
+            ]
+        },
+        {
+            "model": "PEGASUS",
+            "years": [
+                2003,
+                2008
+            ]
+        },
+        {
+            "model": "PERI",
+            "years": [
+                2007,
+                2010
+            ]
+        },
+        {
+            "model": "SAFE",
+            "years": [
+                2002,
+                2009
+            ]
+        },
+        {
+            "model": "SAILOR",
+            "years": [
+                2001,
+                2010
+            ]
+        },
+        {
+            "model": "SHANHAI CANNON",
+            "years": [
+                2022,
+                2027
+            ]
+        },
+        {
+            "model": "SING",
+            "years": [
+                2005,
+                2008
+            ]
+        },
+        {
+            "model": "SOCOOL",
+            "years": [
+                2003,
+                2010
+            ]
+        },
+        {
+            "model": "VOLEEX C10",
+            "years": [
+                2010,
+                2014
+            ]
+        },
+        {
+            "model": "VOLEEX C30",
+            "years": [
+                2010,
+                2016
+            ]
+        },
+        {
+            "model": "VOLEEX C50",
+            "years": [
+                2012,
+                2016
+            ]
+        },
+        {
+            "model": "WINGLE",
+            "years": [
+                2006,
+                2018
+            ]
+        },
+        {
+            "model": "WINGLE 7",
+            "years": [
+                2018,
+                2018
             ]
         }
     ],
@@ -3707,6 +5394,188 @@
             "years": [
                 2010,
                 2027
+            ]
+        },
+        {
+            "model": "HEYUE",
+            "years": [
+                2011,
+                2018
+            ]
+        },
+        {
+            "model": "HEYUE A20",
+            "years": [
+                2013,
+                2016
+            ]
+        },
+        {
+            "model": "HEYUE A30",
+            "years": [
+                2012,
+                2019
+            ]
+        },
+        {
+            "model": "HEYUE TONGYUE",
+            "years": [
+                2008,
+                2017
+            ]
+        },
+        {
+            "model": "HUNTER",
+            "years": [
+                2020,
+                2020
+            ]
+        },
+        {
+            "model": "MAEXTRO S800",
+            "years": [
+                2025,
+                2027
+            ]
+        },
+        {
+            "model": "REFINE A60",
+            "years": [
+                2015,
+                2020
+            ]
+        },
+        {
+            "model": "REFINE L6 MAX",
+            "years": [
+                2017,
+                2017
+            ]
+        },
+        {
+            "model": "REFINE M2",
+            "years": [
+                2011,
+                2018
+            ]
+        },
+        {
+            "model": "REFINE M3",
+            "years": [
+                2014,
+                2014
+            ]
+        },
+        {
+            "model": "REFINE M4",
+            "years": [
+                2016,
+                2016
+            ]
+        },
+        {
+            "model": "REFINE M5",
+            "years": [
+                2002,
+                2011
+            ]
+        },
+        {
+            "model": "REFINE M6",
+            "years": [
+                2017,
+                2017
+            ]
+        },
+        {
+            "model": "REFINE R3",
+            "years": [
+                2017,
+                2025
+            ]
+        },
+        {
+            "model": "REFINE RF8",
+            "years": [
+                2024,
+                2027
+            ]
+        },
+        {
+            "model": "REFINE S2",
+            "years": [
+                2015,
+                2015
+            ]
+        },
+        {
+            "model": "REFINE S3",
+            "years": [
+                2013,
+                2013
+            ]
+        },
+        {
+            "model": "REFINE S4",
+            "years": [
+                2018,
+                2022
+            ]
+        },
+        {
+            "model": "REFINE S5",
+            "years": [
+                2013,
+                2019
+            ]
+        },
+        {
+            "model": "REFINE S7",
+            "years": [
+                2017,
+                2020
+            ]
+        },
+        {
+            "model": "SHUAILING T6",
+            "years": [
+                2015,
+                2015
+            ]
+        },
+        {
+            "model": "SHUAILING T8",
+            "years": [
+                2018,
+                2018
+            ]
+        },
+        {
+            "model": "SUNRAY",
+            "years": [
+                2010,
+                2010
+            ]
+        },
+        {
+            "model": "V7",
+            "years": [
+                2018,
+                2018
+            ]
+        },
+        {
+            "model": "YIWEI 3",
+            "years": [
+                2023,
+                2027
+            ]
+        },
+        {
+            "model": "YUEYUE",
+            "years": [
+                2010,
+                2019
             ]
         }
     ],
@@ -6114,6 +7983,27 @@
                 2015,
                 2027
             ]
+        },
+        {
+            "model": "6",
+            "years": [
+                2009,
+                2016
+            ]
+        },
+        {
+            "model": "7",
+            "years": [
+                2007,
+                2027
+            ]
+        },
+        {
+            "model": "F / MG TF",
+            "years": [
+                1995,
+                2011
+            ]
         }
     ],
     "MINI": [
@@ -8297,6 +10187,860 @@
             "model": "D2",
             "years": [
                 2019,
+                2027
+            ]
+        }
+    ],
+    "DEEPAL": [
+        {
+            "model": "E07",
+            "years": [
+                2024,
+                2027
+            ]
+        }
+    ],
+    "DFSK": [
+        {
+            "model": "AEOLUS L60",
+            "years": [
+                2015,
+                2019
+            ]
+        },
+        {
+            "model": "M-HERO 917",
+            "years": [
+                2023,
+                2027
+            ]
+        },
+        {
+            "model": "M-HERO M817",
+            "years": [
+                2025,
+                2027
+            ]
+        }
+    ],
+    "FOTON": [
+        {
+            "model": "GRAND GENERAL G9",
+            "years": [
+                2021,
+                2021
+            ]
+        },
+        {
+            "model": "GRATOUR IM6",
+            "years": [
+                2017,
+                2017
+            ]
+        },
+        {
+            "model": "GRATOUR IX5",
+            "years": [
+                2016,
+                2016
+            ]
+        },
+        {
+            "model": "GRATOUR V3",
+            "years": [
+                2014,
+                2014
+            ]
+        },
+        {
+            "model": "MIDI",
+            "years": [
+                2008,
+                2014
+            ]
+        },
+        {
+            "model": "SAUVANA",
+            "years": [
+                2014,
+                2021
+            ]
+        },
+        {
+            "model": "SMART SMURF E7",
+            "years": [
+                2022,
+                2027
+            ]
+        },
+        {
+            "model": "TOANO GRAND-V",
+            "years": [
+                2024,
+                2027
+            ]
+        },
+        {
+            "model": "TUNLAND",
+            "years": [
+                2011,
+                2011
+            ]
+        },
+        {
+            "model": "TUNLAND YUTU",
+            "years": [
+                2019,
+                2019
+            ]
+        },
+        {
+            "model": "VIEW",
+            "years": [
+                2000,
+                2014
+            ]
+        }
+    ],
+    "HAVAL": [
+        {
+            "model": "BIG DOG",
+            "years": [
+                2020,
+                2023
+            ]
+        },
+        {
+            "model": "CHITU",
+            "years": [
+                2021,
+                2021
+            ]
+        },
+        {
+            "model": "COOL DOG",
+            "years": [
+                2022,
+                2027
+            ]
+        },
+        {
+            "model": "F5",
+            "years": [
+                2018,
+                2020
+            ]
+        },
+        {
+            "model": "F7",
+            "years": [
+                2018,
+                2018
+            ]
+        },
+        {
+            "model": "H2S",
+            "years": [
+                2016,
+                2019
+            ]
+        },
+        {
+            "model": "H3",
+            "years": [
+                2005,
+                2012
+            ]
+        },
+        {
+            "model": "H4",
+            "years": [
+                2017,
+                2020
+            ]
+        },
+        {
+            "model": "H5",
+            "years": [
+                2010,
+                2023
+            ]
+        },
+        {
+            "model": "H6",
+            "years": [
+                2011,
+                2020
+            ]
+        },
+        {
+            "model": "H6 COUPE",
+            "years": [
+                2015,
+                2021
+            ]
+        },
+        {
+            "model": "H8",
+            "years": [
+                2013,
+                2018
+            ]
+        },
+        {
+            "model": "H9",
+            "years": [
+                2014,
+                2024
+            ]
+        },
+        {
+            "model": "JOLION",
+            "years": [
+                2021,
+                2021
+            ]
+        },
+        {
+            "model": "M6",
+            "years": [
+                2017,
+                2020
+            ]
+        },
+        {
+            "model": "SHENSHOU",
+            "years": [
+                2021,
+                2021
+            ]
+        }
+    ],
+    "ICAR": [
+        {
+            "model": "V27",
+            "years": [
+                2025,
+                2027
+            ]
+        }
+    ],
+    "JAECOO": [
+        {
+            "model": "7",
+            "years": [
+                2023,
+                2027
+            ]
+        },
+        {
+            "model": "J5",
+            "years": [
+                2025,
+                2027
+            ]
+        },
+        {
+            "model": "J7",
+            "years": [
+                2023,
+                2027
+            ]
+        }
+    ],
+    "JETOUR": [
+        {
+            "model": "DASHING",
+            "years": [
+                2022,
+                2027
+            ]
+        },
+        {
+            "model": "T1",
+            "years": [
+                2024,
+                2027
+            ]
+        },
+        {
+            "model": "T2",
+            "years": [
+                2023,
+                2027
+            ]
+        },
+        {
+            "model": "TRAVELLER",
+            "years": [
+                2023,
+                2027
+            ]
+        },
+        {
+            "model": "X70",
+            "years": [
+                2018,
+                2020
+            ]
+        },
+        {
+            "model": "X90",
+            "years": [
+                2019,
+                2019
+            ]
+        },
+        {
+            "model": "X95",
+            "years": [
+                2019,
+                2024
+            ]
+        },
+        {
+            "model": "ZONGHENG G700",
+            "years": [
+                2025,
+                2027
+            ]
+        }
+    ],
+    "OMODA": [
+        {
+            "model": "5",
+            "years": [
+                2022,
+                2027
+            ]
+        },
+        {
+            "model": "7",
+            "years": [
+                2025,
+                2027
+            ]
+        },
+        {
+            "model": "C3",
+            "years": [
+                2025,
+                2027
+            ]
+        },
+        {
+            "model": "C7",
+            "years": [
+                2025,
+                2027
+            ]
+        }
+    ],
+    "ORA": [
+        {
+            "model": "BALLET CAT",
+            "years": [
+                2022,
+                2027
+            ]
+        },
+        {
+            "model": "BLACK CAT",
+            "years": [
+                2019,
+                2022
+            ]
+        },
+        {
+            "model": "GOOD CAT",
+            "years": [
+                2020,
+                2020
+            ]
+        },
+        {
+            "model": "IQ",
+            "years": [
+                2018,
+                2020
+            ]
+        },
+        {
+            "model": "LIGHTNING CAT",
+            "years": [
+                2022,
+                2027
+            ]
+        },
+        {
+            "model": "WHITE CAT",
+            "years": [
+                2020,
+                2022
+            ]
+        }
+    ],
+    "TANK": [
+        {
+            "model": "300",
+            "years": [
+                2020,
+                2020
+            ]
+        },
+        {
+            "model": "400",
+            "years": [
+                2023,
+                2027
+            ]
+        },
+        {
+            "model": "500",
+            "years": [
+                2021,
+                2021
+            ]
+        },
+        {
+            "model": "700",
+            "years": [
+                2024,
+                2027
+            ]
+        }
+    ],
+    "VOYAH": [
+        {
+            "model": "I-LAND",
+            "years": [
+                2020,
+                2020
+            ]
+        }
+    ],
+    "WEY": [
+        {
+            "model": "GAOSHAN",
+            "years": [
+                2023,
+                2027
+            ]
+        },
+        {
+            "model": "LANSHAN",
+            "years": [
+                2023,
+                2027
+            ]
+        },
+        {
+            "model": "LATTE",
+            "years": [
+                2021,
+                2021
+            ]
+        },
+        {
+            "model": "MACCHIATO",
+            "years": [
+                2021,
+                2023
+            ]
+        },
+        {
+            "model": "MOCHA",
+            "years": [
+                2021,
+                2021
+            ]
+        },
+        {
+            "model": "P8",
+            "years": [
+                2017,
+                2020
+            ]
+        },
+        {
+            "model": "VV5",
+            "years": [
+                2017,
+                2021
+            ]
+        },
+        {
+            "model": "VV6",
+            "years": [
+                2018,
+                2021
+            ]
+        },
+        {
+            "model": "VV7",
+            "years": [
+                2017,
+                2021
+            ]
+        }
+    ],
+    "WULING": [
+        {
+            "model": "AIR EV",
+            "years": [
+                2022,
+                2027
+            ]
+        },
+        {
+            "model": "BAOJUN 310",
+            "years": [
+                2016,
+                2021
+            ]
+        },
+        {
+            "model": "BAOJUN 360",
+            "years": [
+                2018,
+                2021
+            ]
+        },
+        {
+            "model": "BAOJUN 510",
+            "years": [
+                2017,
+                2027
+            ]
+        },
+        {
+            "model": "BAOJUN 530",
+            "years": [
+                2018,
+                2027
+            ]
+        },
+        {
+            "model": "BAOJUN 560",
+            "years": [
+                2015,
+                2015
+            ]
+        },
+        {
+            "model": "BAOJUN 630",
+            "years": [
+                2011,
+                2019
+            ]
+        },
+        {
+            "model": "BAOJUN 730",
+            "years": [
+                2014,
+                2020
+            ]
+        },
+        {
+            "model": "BAOJUN E100",
+            "years": [
+                2017,
+                2021
+            ]
+        },
+        {
+            "model": "BAOJUN E200",
+            "years": [
+                2018,
+                2018
+            ]
+        },
+        {
+            "model": "BAOJUN E300",
+            "years": [
+                2020,
+                2020
+            ]
+        },
+        {
+            "model": "BAOJUN KIWI EV",
+            "years": [
+                2020,
+                2020
+            ]
+        },
+        {
+            "model": "BAOJUN RC-5",
+            "years": [
+                2020,
+                2021
+            ]
+        },
+        {
+            "model": "BAOJUN RC-6",
+            "years": [
+                2019,
+                2021
+            ]
+        },
+        {
+            "model": "BAOJUN RM-5",
+            "years": [
+                2019,
+                2021
+            ]
+        },
+        {
+            "model": "BAOJUN RS-3",
+            "years": [
+                2019,
+                2021
+            ]
+        },
+        {
+            "model": "BAOJUN RS-5",
+            "years": [
+                2018,
+                2021
+            ]
+        },
+        {
+            "model": "BAOJUN RS-7",
+            "years": [
+                2020,
+                2022
+            ]
+        },
+        {
+            "model": "BAOJUN XIANGJING",
+            "years": [
+                2024,
+                2027
+            ]
+        },
+        {
+            "model": "BAOJUN YEP",
+            "years": [
+                2023,
+                2024
+            ]
+        },
+        {
+            "model": "BAOJUN YUNDUO",
+            "years": [
+                2023,
+                2027
+            ]
+        },
+        {
+            "model": "BAOJUN YUNHAI",
+            "years": [
+                2024,
+                2027
+            ]
+        },
+        {
+            "model": "BINGUO",
+            "years": [
+                2023,
+                2027
+            ]
+        },
+        {
+            "model": "BINGUO SUV",
+            "years": [
+                2024,
+                2027
+            ]
+        },
+        {
+            "model": "CHEVROLET AVEO",
+            "years": [
+                2002,
+                2023
+            ]
+        },
+        {
+            "model": "CHEVROLET CAPTIVA",
+            "years": [
+                2006,
+                2006
+            ]
+        },
+        {
+            "model": "CHEVROLET GROOVE",
+            "years": [
+                2020,
+                2027
+            ]
+        },
+        {
+            "model": "DAIHATSU ZEBRA",
+            "years": [
+                1986,
+                2007
+            ]
+        },
+        {
+            "model": "DRAGON",
+            "years": [
+                1990,
+                1990
+            ]
+        },
+        {
+            "model": "E10 EV",
+            "years": [
+                2023,
+                2027
+            ]
+        },
+        {
+            "model": "HONGGUANG PLUS",
+            "years": [
+                2019,
+                2019
+            ]
+        },
+        {
+            "model": "HONGGUANG S3",
+            "years": [
+                2017,
+                2022
+            ]
+        },
+        {
+            "model": "HONGGUANG V",
+            "years": [
+                2015,
+                2019
+            ]
+        },
+        {
+            "model": "HONGTU",
+            "years": [
+                2007,
+                2007
+            ]
+        },
+        {
+            "model": "JIACHEN",
+            "years": [
+                2022,
+                2027
+            ]
+        },
+        {
+            "model": "LONGKA",
+            "years": [
+                2023,
+                2027
+            ]
+        },
+        {
+            "model": "LZ110",
+            "years": [
+                1984,
+                1984
+            ]
+        },
+        {
+            "model": "NEBULA",
+            "years": [
+                2023,
+                2027
+            ]
+        },
+        {
+            "model": "RONGGUANG",
+            "years": [
+                2008,
+                2008
+            ]
+        },
+        {
+            "model": "SUNSHINE",
+            "years": [
+                2002,
+                2025
+            ]
+        },
+        {
+            "model": "VICTORY",
+            "years": [
+                2020,
+                2020
+            ]
+        },
+        {
+            "model": "YANGGUANG",
+            "years": [
+                2024,
+                2027
+            ]
+        },
+        {
+            "model": "ZHENGCHENG",
+            "years": [
+                2014,
+                2021
+            ]
+        },
+        {
+            "model": "ZHENGTU",
+            "years": [
+                2021,
+                2021
+            ]
+        }
+    ],
+    "ZEEKR": [
+        {
+            "model": "001",
+            "years": [
+                2021,
+                2027
+            ]
+        },
+        {
+            "model": "007",
+            "years": [
+                2023,
+                2025
+            ]
+        },
+        {
+            "model": "009",
+            "years": [
+                2023,
+                2027
+            ]
+        },
+        {
+            "model": "7X",
+            "years": [
+                2024,
+                2027
+            ]
+        },
+        {
+            "model": "9X",
+            "years": [
+                2025,
+                2027
+            ]
+        },
+        {
+            "model": "MIX",
+            "years": [
+                2024,
+                2027
+            ]
+        },
+        {
+            "model": "X",
+            "years": [
+                2023,
                 2027
             ]
         }
